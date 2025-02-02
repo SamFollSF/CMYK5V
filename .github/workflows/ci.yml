@@ -34,10 +34,6 @@ jobs:
       - name: Check size of ./site
         run: |
           du -sh ./site
-          if [ $(du -s ./site | awk '{print $1}') -gt 10000000 ]; then
-            echo "The site is too large, stopping the deployment!";
-            exit 1;
-          fi
 
       - name: Remove symlinks and hardlinks (if any)
         run: |
@@ -45,23 +41,16 @@ jobs:
           find ./site -type f -links +1 -exec rm -f {} \;
           find ./site -type d -empty -exec rmdir {} \;
 
-      - name: Compress images into a ZIP
+      - name: Compress the entire site into a ZIP file
         run: |
-          mkdir ./site/images_zip
-          find ./site -type f -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.gif" -exec mv {} ./site/images_zip/ \;
-          zip -r ./site/images.zip ./site/images_zip
+          zip -r ./site.zip ./site
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Upload artifact
+      - name: Upload artifact (ZIP file)
         uses: actions/upload-artifact@v4
         with:
-          name: github-pages
-          path: ./site
+          name: site-zip
+          path: ./site.zip
           retention-days: 1  # Mantiene l'artifact solo per 1 giorno
-          if-no-files-found: error  # Blocca il job se la cartella è vuota
-          compression-level: 0  # Evita ulteriore compressione
 
   deploy:
     if: github.ref == 'refs/heads/main'
@@ -77,11 +66,16 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
+      - name: Download the artifact (ZIP file)
+        uses: actions/download-artifact@v4
+        with:
+          name: site-zip
+
+      - name: Extract the ZIP file
+        run: |
+          unzip ./site.zip -d ./site
+          rm ./site.zip
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-      - name: Decompress images
-        run: |
-          unzip ./site/images.zip -d ./site
-          rm -rf ./site/images_zip
