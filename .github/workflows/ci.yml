@@ -38,26 +38,29 @@ jobs:
         run: |
           mkdocs build
 
-      # Step 5: Rimuovere eventuali symlink o hardlink (evita errori)
-      - name: Remove symlinks and hardlinks (if any)
+      # Step 5: Verifica che la cartella ./site contenga i file
+      - name: List files in the ./site directory
         run: |
-          find ./site -type l -exec rm {} \;  # Rimuove i symlink
-          find ./site -type f -links +1 -exec rm {} \;  # Rimuove gli hardlink
+          echo "Files in ./site directory:"
+          ls -alh ./site
 
       # Step 6: Creare un file .zip della cartella ./site
       - name: Create zip of the site
         run: |
+          echo "Creating site.zip..."
           zip -r site.zip ./site
-          
-      # Debug: Verifica se il file .zip esiste prima del passo successivo
-      - name: List files in the working directory
-        run: ls -alh
 
-      # Step 7: Setup Pages
+      # Step 7: Verifica che il file site.zip sia stato creato
+      - name: Verify site.zip creation
+        run: |
+          echo "Listing files after creating zip:"
+          ls -alh  # Verifica se site.zip è presente nella cartella
+
+      # Step 8: Setup Pages
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
-      # Step 8: Caricare l'artifact .zip
+      # Step 9: Caricare l'artifact .zip
       - name: Upload zip artifact
         uses: actions/upload-artifact@v4
         with:
@@ -70,7 +73,7 @@ jobs:
     needs: build  # Dipende dal job build
 
     steps:
-      # Step 9: Estrai il file .zip caricato (verifica il nome del file)
+      # Step 10: Estrai il file .zip caricato (verifica il nome del file)
       - name: List artifact files before extracting
         run: |
           echo "Listing uploaded artifact files:"
@@ -87,7 +90,7 @@ jobs:
             exit 1
           fi
 
-      # Step 10: Deploy su GitHub Pages
+      # Step 11: Deploy su GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
