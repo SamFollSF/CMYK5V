@@ -3,11 +3,16 @@ name: Deploy MkDocs site to GitHub Pages
 on:
   push:
     branches:
-      - main  # Rileva quando un commit è pushato al branch principale
+      - main  # Questo attiverà l'azione solo quando esegui un push sul branch principale
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write  # Permette di generare un token ID per il deploy
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # Puoi anche usare 'windows-latest' o 'macos-latest' se preferisci
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
@@ -16,30 +21,31 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'  # Specifica la versione di Python
+          python-version: '3.x'
 
       - name: Install MkDocs and dependencies
         run: |
-          pip install mkdocs mkdocs-material  # Installa MkDocs e il tema Material
+          pip install mkdocs mkdocs-material
 
       - name: Build MkDocs site
         run: |
-          mkdocs build  # Costruisce il sito statico
-
+          mkdocs build
+          
       - name: Setup Pages
-        uses: actions/configure-pages@v4  # Configura la pagina GitHub
+        uses: actions/configure-pages@v4
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
-          path: ./site  # La directory di output di MkDocs
+          path: ./site
 
   deploy:
-    if: github.ref == 'refs/heads/main'  # Assicurati che il deploy venga fatto solo sul branch 'main'
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
-    needs: build  # Questo job dipende dal job 'build'
+    needs: build
+
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4  # Questo deploys il contenuto della cartella 'site' su GitHub Pages
+        uses: actions/deploy-pages@v4
