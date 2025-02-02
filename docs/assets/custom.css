@@ -1,0 +1,29 @@
+body {
+    background-image: url('../eg/background2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.md-content[data-md-page="docs/coding/index"] {
+    background-image: url('sfondo1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.md-header {
+    background-image: url(../eg/banner.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain; /* Adatta l'immagine alla dimensione */
+    height: 80px; /* Imposta l'altezza corretta per l'immagine */
+}
+
+@font-face {
+    font-family: "Nippo"; /* Nome del font */
+    src: url("Nippo.otf") format("truetype");
+}
+
+body {
+    font-family: "Nippo", sans-serif; /* Applica il font al corpo del sito */
+}

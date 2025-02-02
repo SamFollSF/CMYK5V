@@ -1,0 +1,137 @@
+site_name: CMYK5
+site_url: https://mydomain.org/mysite
+theme:
+  logo: assets/lostesso.png
+  name: material
+
+  palette: 
+
+    - scheme: default
+      primary: black
+      accent: deep orange
+
+  features:
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+      # - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - header.autohide
+    - navigation.instant
+    - navigation.instant.progress
+
+
+plugins:
+  - search
+  - tags:
+      tags_file: tags.md 
+  - blog
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+nav:
+ - Home: index.md
+ - CYAN: 
+    - Ciano/carteciano.md
+    - Ciano/mimmo.md
+    - Ciano/dada.md
+    - Ciano/iuffredo.md
+    - Ciano/itsterry.md
+    - Ciano/karuto.md
+    - Ciano/kekka.md
+    - Ciano/lele.md
+    - Ciano/ludovit.md
+    - Ciano/senatore.md
+    - Ciano/notfleex.md
+    - Ciano/pakolapp.md
+    - Ciano/pistilli.md
+    - Ciano/thedea.md
+ - MAGENTA: 
+    - cartemag.md
+    - Magenta/alesdreams.md
+    - Magenta/androzz.md
+    - Magenta/santin.md
+    - Magenta/chitty.md
+    - Magenta/dx4vid.md
+    - Magenta/ilpanettone.md
+    - Magenta/lucy.md
+    - Magenta/sawako.md
+    - Magenta/shadowelite.md
+    - Magenta/solisnoctix.md
+    - Magenta/wooby.md
+    - Magenta/zoro.md
+ - YELLOW:
+    - cartegia.md
+    - Giallo/angy.md
+    - Giallo/arion.md
+    - Giallo/frashadow.md
+    - Giallo/geadamn.md
+    - Giallo/gmlrc.md
+    - Giallo/hedro.md
+    - Giallo/martin.md
+    - Giallo/ludemart.md
+    - Giallo/mc6.md
+    - Giallo/postfry.md
+    - Giallo/prezzemolo.md
+    - Giallo/redghost.md
+    - Giallo/sabry.md
+    - Giallo/del.md
+ - KEY COLOR:
+    - cartener.md
+    - Nero/gabmiglior.md
+    - Nero/giocosty.md
+    - Nero/kind.md
+    - Nero/bird.md
+    - Nero/opsg.md
+    - Nero/pulak.md
+    - Nero/stray.md
+    - Nero/giada.md
+    - Nero/valeriacci.md
+    - Nero/blood.md
+ - R3M1X:
+    - carterem.md
+    - Remix/adobe.md
+    - Remix/extraspettrale.md
+    - Remix/frutiger.md
+    - Remix/graffiti.md
+    - Remix/deep.md
+    - Remix/metal.md
+    - Remix/mixture.md
+    - Remix/over.md
+    - Remix/rgb.md
+    - Remix/sa742sa.md
+    - Remix/samfollsf.md
+    - Remix/tool.md
+    - Remix/crystal.md
+ - Extra:
+    - tags.md
+    - credits.md
+ - News:
+    - blog/index.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/samfoll.design?igsh=enB6NHZiMWt1bnl6
+  favicon: /favicon.ico
+
+extra_css:
+  - assets/custom.css
