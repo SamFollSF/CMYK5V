@@ -45,6 +45,12 @@ jobs:
           find ./site -type f -links +1 -exec rm -f {} \;
           find ./site -type d -empty -exec rmdir {} \;
 
+      - name: Compress images into a ZIP
+        run: |
+          mkdir ./site/images_zip
+          find ./site -type f -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.gif" -exec mv {} ./site/images_zip/ \;
+          zip -r ./site/images.zip ./site/images_zip
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
@@ -74,3 +80,8 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Decompress images
+        run: |
+          unzip ./site/images.zip -d ./site
+          rm -rf ./site/images_zip
