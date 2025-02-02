@@ -41,6 +41,15 @@ jobs:
           find ./site -type f -links +1 -exec rm {} \;
           find ./site -type d -empty -delete
 
+      - name: Debugging the site folder
+        run: |
+          echo "Listing site directory"
+          ls -l ./site
+          echo "Checking file sizes"
+          du -sh ./site
+          echo "Checking if index.html exists"
+          ls ./site/index.html
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
