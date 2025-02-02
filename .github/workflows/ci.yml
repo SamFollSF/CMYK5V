@@ -3,94 +3,70 @@ name: Deploy MkDocs site to GitHub Pages
 on:
   push:
     branches:
-      - main  # Trigger quando fai un push al branch principale
-
-  # Permette di eseguire manualmente il workflow
-  workflow_dispatch:
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout del repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Step 2: Impostare Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'  # Usa una versione recente di Python
+          python-version: '3.x'
 
-      # Step 3: Installare MkDocs e le dipendenze necessarie
       - name: Install dependencies
         run: |
           pip install mkdocs mkdocs-material
 
-      # Step 4: Costruire il sito con MkDocs
       - name: Build MkDocs site
         run: |
           mkdocs build
+          ls -l ./site
 
-      # Step 5: Verifica che la cartella ./site contenga i file
-      - name: List files in the ./site directory
+      - name: Check file permissions in ./site
         run: |
-          echo "Files in ./site directory:"
-          ls -alh ./site
+          ls -l ./site
 
-      # Step 6: Creare un file .zip della cartella ./site
-      - name: Create zip of the site
+      - name: Check size of ./site
         run: |
-          echo "Creating site.zip..."
-          zip -r site.zip ./site
+          du -sh ./site
 
-      # Step 7: Verifica che il file site.zip sia stato creato
-      - name: Verify site.zip creation
+      - name: Remove symlinks and hardlinks (if any)
         run: |
-          echo "Listing files after creating zip:"
-          ls -alh  # Verifica se site.zip è presente nella cartella
+          find ./site -type l -exec rm {} \;
+          find ./site -type f -links +1 -exec rm {} \;
+          find ./site -type d -empty -delete
 
-      # Step 8: Setup Pages
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
-      # Step 9: Caricare l'artifact .zip
-      - name: Upload zip artifact
+      - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
-          path: site.zip  # Carica il file .zip creato
+          path: ./site
+          retention-days: 1  # Mantiene l'artifact solo per 1 giorno
+          if-no-files-found: error  # Blocca il job se la cartella è vuota
+          compression-level: 0  # Evita ulteriore compressione
 
   deploy:
-    if: github.ref == 'refs/heads/main'  # Esegui solo per il branch principale
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
-    needs: build  # Dipende dal job build
+    needs: build
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      # Step 10: Estrai il file .zip caricato (verifica il nome del file)
-      - name: List artifact files before extracting
-        run: |
-          echo "Listing uploaded artifact files:"
-          ls -alh
-
-      - name: Extract zip artifact
-        run: |
-          # Verifica se il file .zip esiste prima di estrarlo
-          if [ -f site.zip ]; then
-            echo "Found site.zip, extracting..."
-            unzip site.zip -d ./site  # Estrai il contenuto del file .zip in ./site
-          else
-            echo "Error: site.zip not found!"
-            exit 1
-          fi
-
-      # Step 11: Deploy su GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
