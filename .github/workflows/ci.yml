@@ -3,7 +3,10 @@ name: Deploy MkDocs site to GitHub Pages
 on:
   push:
     branches:
-      - main  # trigger quando fai un push al branch principale (main)
+      - main  # Trigger quando fai un push al branch principale
+
+  # Permette di eseguire manualmente il workflow
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -41,16 +44,21 @@ jobs:
           find ./site -type l -exec rm {} \;  # Rimuove i symlink
           find ./site -type f -links +1 -exec rm {} \;  # Rimuove gli hardlink
 
-      # Step 6: Setup Pages
+      # Step 6: Creare un file .zip della cartella ./site
+      - name: Create zip of the site
+        run: |
+          zip -r site.zip ./site
+
+      # Step 7: Setup Pages
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
-      # Step 7: Caricare l'artifact generato (cartella ./site)
-      - name: Upload artifact
+      # Step 8: Caricare l'artifact .zip
+      - name: Upload zip artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
-          path: ./site  # Cartella generata da mkdocs build
+          path: site.zip  # Carica il file .zip creato
 
   deploy:
     if: github.ref == 'refs/heads/main'  # Esegui solo per il branch principale
@@ -58,7 +66,12 @@ jobs:
     needs: build  # Dipende dal job build
 
     steps:
-      # Step 8: Deploy su GitHub Pages
+      # Step 9: Estrai il file .zip caricato
+      - name: Extract zip artifact
+        run: |
+          unzip site.zip -d ./site  # Estrai il contenuto del file .zip in ./site
+
+      # Step 10: Deploy su GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
