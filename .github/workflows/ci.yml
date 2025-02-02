@@ -48,6 +48,10 @@ jobs:
       - name: Create zip of the site
         run: |
           zip -r site.zip ./site
+          
+      # Debug: Verifica se il file .zip esiste prima del passo successivo
+      - name: List files in the working directory
+        run: ls -alh
 
       # Step 7: Setup Pages
       - name: Setup Pages
@@ -66,10 +70,22 @@ jobs:
     needs: build  # Dipende dal job build
 
     steps:
-      # Step 9: Estrai il file .zip caricato
+      # Step 9: Estrai il file .zip caricato (verifica il nome del file)
+      - name: List artifact files before extracting
+        run: |
+          echo "Listing uploaded artifact files:"
+          ls -alh
+
       - name: Extract zip artifact
         run: |
-          unzip site.zip -d ./site  # Estrai il contenuto del file .zip in ./site
+          # Verifica se il file .zip esiste prima di estrarlo
+          if [ -f site.zip ]; then
+            echo "Found site.zip, extracting..."
+            unzip site.zip -d ./site  # Estrai il contenuto del file .zip in ./site
+          else
+            echo "Error: site.zip not found!"
+            exit 1
+          fi
 
       # Step 10: Deploy su GitHub Pages
       - name: Deploy to GitHub Pages
