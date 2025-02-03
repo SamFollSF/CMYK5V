@@ -25,7 +25,6 @@ Il carbone è stato il colore più vicino al nero che i paleolitici riuscirono a
 ## Curiosità
 
 - Come è possible vedere nella carta porta con sè un'Antenna Satellitare, utilizzata per mettersi con contatto con i Medium.
-- Oltre che collega è anche amico di uno di questi Medium, ovvero PLACE HOLDER, maggiori informazioni nella sua carta.
 - Sulla sua maglietta c'è un simbolo della cacca, ottenibile solo tramite il gruppo dell'accademia dedicato.
 - XbloodXan è l'Agent di Gianni Scotto Di Carlo.
 
