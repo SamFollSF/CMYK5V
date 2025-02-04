@@ -1,2 +1,1 @@
-# News
-
+# Versione attuale: 1.0
