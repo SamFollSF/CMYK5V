@@ -12,7 +12,7 @@ tags:
 
 La proprietaria della boutique "Il Tulipano", specializzata nella creazione di capi di abbigliamento e accessori fatti a mano ispirati allo stile azteco e ad altre antiche civiltà. È molto legata ad [Ales Dreams](../Magenta/alesdreams.md), anche se non è in alcun modo coinvolta nell'operazione [Red Winter](../Magenta/alesdreams.md).
 
-Ciò che la sua amica non sa, però, è che anche lei, come [SamFollSF](../Remix/samfollsf.md), possiede uno [Strumento dei Fondatori](../Remix/tool.md). In particolare, si tratta di un paio di forbici che le consentono di utilizzare filamenti infiniti per le sue creazioni, anche se ogni filamento può essere usato una sola volta.
+Ciò che la sua amica non sa, però, è che anche lei, come [SamFollSF](../Remix/samfollsf.md), possiede uno [Strumento dei Fondatori](../Remix/tool.md). In particolare, si tratta di un paio di [Forbici Copypasta](../Remix/tool.md) che la consentono di utilizzare filamenti infiniti per le sue creazioni, anche se ogni filamento può essere usato una sola volta.
 
 ## Colore
 

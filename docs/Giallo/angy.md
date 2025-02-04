@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-Da semplice impiegata negli uffici della Web Intelligence a vicedirigente del padiglione Ricercati e Dispersi, il percorso di Angy è stato molto lungo. Conosceva [SamFollSF](../Remix/samfollsf.md) da molto tempo e, nonostante le loro idee opposte sulla legalità – lui un criminale, lei un'investigatrice governativa – erano comunque amici stretti. Tuttavia, da quando [SamFollSF](../Remix/samfollsf.md) è sparito dai radar nel 2020, Angy ha formato una squadra per rintracciarlo, temendo che potesse mettersi in guai seri. Più volte ha dichiarato alla stampa: 'Smentisco le voci che ci vedono come amici. Egli rappresenta una seria minaccia per la sicurezza del Blocco 87 e potenzialmente anche per quella di altri ancora. Faremo del nostro meglio per catturarlo.'
+Da semplice impiegata negli uffici della Web Intelligence a vicedirigente del padiglione Ricercati e Dispersi. Conosceva [SamFollSF](../Remix/samfollsf.md) da molto tempo e, nonostante le loro idee opposte sulla legalità e la vita in generale (lui un criminale, lei un'investigatrice governativa) erano comunque amici stretti. Tuttavia, da quando [SamFollSF](../Remix/samfollsf.md) è sparito dai radar nel 2020, Angy ha formato una squadra per rintracciarlo, temendo che potesse mettersi in guai seri. Più volte ha dichiarato alla stampa per non avere problemi: "Smentisco le voci che vedonome e [SamFollSF](../Remix/samfollsf.md) come amici. Egli rappresenta una seria minaccia per la sicurezza del Blocco 87 e potenzialmente anche per quella di altri ancora. Faremo del nostro meglio per catturarlo e punirlo".
 
 ## Colore
 

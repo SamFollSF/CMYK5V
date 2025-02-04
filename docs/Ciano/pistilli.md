@@ -21,6 +21,7 @@ Il Verde di Parigi è un colore particolare che spopolava in mezza Europa, ma ri
 - Conosce di persona l'Agent di Tedua, anche se come vedremo più avanti non sono altro che normalissimi Agent come altri senza una popolarità rilevante ([Maggiori informazioni Qui](../Giallo/geadamn.md)).
 - All'interno del "Lair" ha un bar privato dove può prendersi un cappuccino a qualunque ora del giorno.
 - Nella carta è attraversata da un Link, che come potete vedere non possono essere toccati ma solo visti, potendo attraversare i corpi degli abitanti del Web senza problemi.
+- - Sul suo pantaloncino è presente il logo di appartenenza alla [Snoctix.inc](../Magenta/solisnoctix.md).
 - PickMeGiuls è l'Agent di Giulia Pistilli.
 
 # Versione Mazzo 1.0

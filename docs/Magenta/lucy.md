@@ -22,9 +22,9 @@ Perché i fenicotteri hanno quel colore rosa così particolare e semplicemente f
 
 ## Curiosità
 
-- Prende la metro così spesso che è ormai amica dei controllori, e non paga mai il biglietto.
 - Il suo orecchino ha la forma di una punta di danza.
-- Oltre a frequentare le Palestre di ricerca per lavoro, ogni tanto conduce anche delle ricerche sul proprio codice sorgente.- Indossa una collana con il logo EAV forgiato in [Oro](../Remix/metal.md).
+- Oltre a frequentare le Palestre di ricerca per lavoro conduce anche delle ricerche sul proprio codice sorgente.
+- Indossa una collana con il logo EAV forgiato in [Oro](../Remix/metal.md). Prende la metro così spesso che è ormai amica dei controllori, e non paga mai il biglietto.
 - Lucy è l'Agent di Lucia Marrandino. 
 
 # Versione Mazzo 1.0

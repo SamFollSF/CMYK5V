@@ -21,6 +21,7 @@ L'Orchidea, un fiore che conosciamo tutti, la gradazione chiara di viola anche. 
 - Selezione: B33 si porta sempre dietro un Drone a forma di Ragno, gli stessi insidiati negli archivi nel [Deep Web Esposto](../Remix/deep.md) esposto per il furto di dati.
 - Nonostante ciò B33 è aracnofobica, anche se odia tutti gli insetti in generale.
 - Uno dei suoi occhi è stato sostituito da una protesi e ora ha un occhio bionico che gli permette di vedere informazioni in primo piano, come statistiche e ricerche immediate.
+- Sul suo vestito è presente il logo di appartenenza alla [Snoctix.inc](../Magenta/solisnoctix.md).
 - Brioche33 è il Manager di Francesca Santin.
 
 # Versione Mazzo 1.0
