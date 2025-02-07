@@ -22,8 +22,9 @@ Un giallo intenso e brillante con riflessi leggermente dorati, ispirato alla pur
 
 - Selezione: Quello che fa fluttuare è il mazzo CMYK ma nella sua primissima versione che risale al 2022. Un mazzo di carte francesi che non ho mai reso pubblico.
 - Anche il suo vestito è a tema CMYK con i relativi semi (Picche, Cuore, Fiore e Quadro).
-- Nel tempo libero pratica Baske. Ha persino stampato un campo interno in PLA!
+- Nel tempo libero pratica Basket. Ha persino stampato un campo interno in PLA!
 - Può vantare di avere una foto con l'Agent di LeBron James.
+- La combinazione dei capi di abbigliamento CMYK è casuale, ha infatti giacche, pantaloni ecc. di tutti e 4 i colori. Ogni giorno indossa una combinazione unica.
 - Frashadow è l'Agent di Francesco Emanuele Altobelli.
 
 # Versione Mazzo 1.0

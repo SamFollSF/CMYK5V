@@ -47,4 +47,4 @@ Al secondo posto troviamo gli [Strumenti dei Fondatori](Remix/tool.md): Chiavi, 
 Infine, al primo posto della classifica troviamo i [Metalli Nobili](Remix/metal.md), disposti in ordine crescente: Bronzo, Argento, Oro e Platino. Quest’ultimo, il Platino, è il potere più ambito e forte dell’intero Web, conferendo un vantaggio incontrastabile sia agli Agent che ai Nativi del Web.
 
 # Versione Mazzo 1.0
-Disclaimer doveroso: Il mazzo CMYK5 non finisce qui, sarà sempre in continua espansione con nuove carte, quindi ti consiglio di seguirmi su [Instagram](https://www.instagram.com/samfoll.design?igsh=enB6NHZiMWt1bnl6) per rimanere sempre aggionato o di usare la scheda dedicata [News](blog/index.md) nel sito.
+Disclaimer doveroso: Il mazzo CMYK5 non finisce qui, sarà sempre in continua espansione con nuove carte, quindi ti consiglio di seguirmi su [Instagram](https://www.instagram.com/samfoll.design?igsh=enB6NHZiMWt1bnl6) per rimanere sempre aggiornato o di usare la scheda dedicata [News](blog/index.md) nel sito.

@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-Impossibile non dare spazio all'Atompunk. Pur non facendo direttamente parte dell'Operazione Red Winter, mantiene stretti contatti con essa. La sua principale mansione è convertire file in diversi formati (ad esempio, da .AI a .ESP). In effetti è un lavoro del tutto leggittimo, tuttavia non perde occasione per spingeri a comprimere file in modo proibito, offrendo un servizio molto particolare: Kàruto è in grado di comprimere file e oggetti di contrabbando in formati così ridotti da risultare impossibili da individuare per le dogane e le forze di polizia.
+Impossibile non dare spazio all'Atompunk. Pur non facendo direttamente parte dell'Operazione Red Winter, mantiene stretti contatti con essa. La sua principale mansione è convertire file in diversi formati (ad esempio, da .AI a .ESP). In effetti è un lavoro del tutto leggittimo, tuttavia non perde occasione per spingersi a comprimere file in modo proibito, offrendo un servizio molto particolare: Kàruto è in grado di comprimere file e oggetti di contrabbando in formati così ridotti da risultare impossibili da individuare per le dogane e le forze di polizia.
 
 ## Colore
 

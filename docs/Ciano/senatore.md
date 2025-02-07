@@ -18,7 +18,7 @@ Tutto questo non ha nulla a che vedere con Marwis, che anzi è un modellista ris
 
 ## Colore
 
-Place Holder
+Il Blu Klein è un blu profondo e vibrante, ideato dall'artista Yves Klein. Questa tonalità, conosciuta anche come International Klein Blue (IKB), si distingue per la sua intensità cromatica e la capacità di evocare una sensazione di spazio immateriale, diventando un simbolo iconico dell'arte moderna.
 
 ## Curiosità
 

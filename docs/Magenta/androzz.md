@@ -20,7 +20,7 @@ Fiori fitti, vicini, profumo inconfondibile, il colore proviene dai fiori di lil
 
 ## Curiosità
 
-- Ha un patrimonio monetario notevole, è in possesso di 4 ville sparse per il Surface Web, Automobili e persino una barca.
+- Ha un patrimonio monetario notevole, è in possesso di 4 ville sparse per il [Surface Web](../Remix/deep.md), Automobili e persino una barca.
 - Di anni '70 c'è solo lo stile della carta e del suo vestiario, ma nel mio cuore rimarrà sempre il "Ragazzo Anni '70".
 - Indossa una fascia con sopra il logo di Blender.
 - È misteriosamente riuscito a far partire Windows su un Mac. Non ha alcun senso ma è la cosa più scomoda e divertente di sempre.

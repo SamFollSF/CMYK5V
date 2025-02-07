@@ -20,7 +20,7 @@ Dal colore violaceo moderato e trasparente, l'Ametista prende il nome dall'omoni
 
 ## Curiosità
 
-- Selezione: La sua revolver è in realtà una S Pen mutaforma, la stessa di [SamFollSF](../Remix/samfollsf.md) solo che invece di essere di [Bronzo](../Remix/metal.md) è fatta di Cromo Verde, una speciale variante di Inchiostro Sottrattivo.
+- Selezione: La sua revolver è in realtà una S Pen mutaforma, la stessa di [SamFollSF](../Remix/samfollsf.md) solo che invece di essere di [Rame](../Remix/metal.md) è fatta sempre di rame ma ossidato, una speciale variante di Inchiostro Sottrattivo.
 - Prima del suo lavoro da sicario era un fotografo, passione che si porta tutt'ora con sè anche se evita di parlarne in giro.
 - Ha conosciuto [SamFollSF](../Remix/samfollsf.md) negli uffici del Playstation Network mentre creava un estensione per accedere al Cloud Playstation, capendo subito che era un bastardo perfetto per essere suo amico.
 - Inoltre rimanendo in tema Playstation, è assodato come fosse molto più forte a qualunque gioco rispetto ai suoi amici, anche rispetto a [It's Martin](../Giallo/martin.md). (O almeno nel mio cuore)

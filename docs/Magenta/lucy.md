@@ -12,7 +12,7 @@ tags:
 
 Come [MC6](../Giallo/mc6.md), anche Lucy frequenta una palestra di ricerca, di proprietà della B&W. Prima di approfondire l'argomento, consiglio di leggere l'articolo dedicato a [MC6](../Giallo/mc6.md), in quanto ci sono altri dettagli interessanti da considerare. Lucy lavora in una di queste palestre nel [Surface Web](../Remix/deep.md) come supervisore. Il suo compito principale è controllare che eventuali Agent non effettuino ricerche di stringhe proibite nel loro codice sorgente.
 
-Essendo supervisore, Lucy possiede un’armatura in bronzo, come richiesto dai protocolli di sicurezza per chi opera in quella posizione. In particolare, il suo ruolo consiste nel monitorare le attività di Agent più giovani che decidono di partecipare a queste ricerche. Sebbene non sia mai piacevole, il suo compito prevede anche l’uso della forza per punire gli Agent che infrangono le regole, come stabilito dal governo e dai protocolli.
+Essendo supervisore, Lucy possiede un’armatura in [Rame](../Remix/metal.md), come richiesto dai protocolli di sicurezza per chi opera in quella posizione. In particolare, il suo ruolo consiste nel monitorare le attività di Agent più giovani che decidono di partecipare a queste ricerche. Sebbene non sia mai piacevole, il suo compito prevede anche l’uso della forza per punire gli Agent che infrangono le regole, come stabilito dal governo e dai protocolli.
 
 Tuttavia, Lucy si chiede se esista un modo meno brutale per far rispettare le regole, evitando la violenza e adottando metodi più umani e comprensivi.
 

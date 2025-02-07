@@ -23,7 +23,7 @@ Il peridoto è caratterizzato da un verde intenso e vivido, che può variare dal
 ## Curiosità
 
 - Il suo design è a tutti gli effetti collegato a quello Cowboy de [IlPanettone](../Magenta/ilpanettone.md), infatti i loro cappelli hanno le iniziali delle loro controparti reali (M e N)
-- Possiede, come è possibile vedere nella carta, una piccola S Pen Mystic Green prestata da [IlPanettone](../Magenta/ilpanettone.md), quest'ultimo ha infatti diviso le S Pen in due per permettere anche a lei di utilizzarla.
+- Possiede, come è possibile vedere nella carta, una piccola S Pen in rame ossidato prestata da [IlPanettone](../Magenta/ilpanettone.md), quest'ultimo ha infatti diviso le S Pen in due per permettere anche a lei di utilizzarla.
 - Sul gilet è presente il numero 17. (Eh no, 17 non sta per "Blocco 17)
 - È riuscita ad entrare nel Clan HotRide con qualche raccomandazione, ma almeno si rende utile portando il caffè ai sicari più importanti.
 - Prutusin è l'Agent di Maria Di Colandrea.

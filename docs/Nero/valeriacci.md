@@ -21,7 +21,7 @@ L'Onyx è una pietra della grande famiglia dei quarzi che racchiude misteri e le
 - L'arma che impugna nella carta si chiama CommandX, e il nome stesso ne svela il funzionamento. Grazie ai suoi proiettili, questa arma è in grado di tagliare i bersagli, facendoli non solo scomparire, ma anche copiando il loro intero codice sorgente. Tuttavia, questa copia viene immagazzinata nell'arma sotto forma di un file estremamente compresso. Solo abili Agent come [Kàruto](../Ciano/karuto.md) possono estrarre senza danneggiare il file l'intero codice.
 - Il suo intero corpo è robotizzato, in riferimento alla prima esercitazione che io abbia mai fatto su Adobe Illustrator, magari un giorno ci farò una carta.
 - Sulla sua felpa c'è la dicitura "Make Design Great Again".
-- Porta sempre con sè gli strumenti di Adobe, in modo da disegnare ovunque lui si trovi.
+- Porta sempre con sè gli [Strumenti di Adobe](../Remix/adobe.md), in modo da disegnare ovunque lui si trovi.
 - Valeriacci è l'Agent di Valerio Mattiacci.
 
 # Versione Mazzo 1.0

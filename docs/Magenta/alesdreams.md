@@ -20,7 +20,7 @@ Ella è a conoscenza di molti sospettati, tra cui [SamFollSF](../Remix/samfollsf
 
 ## Curiosità
 
-- Il presidente dispone dell'appoggio della Web Intelligence per le sue ricerche, si stima che entro il 2035 tutti gli Strumenti dei Fondatori saranno archiviati e successivamente distrutti, per evitare una fuga di risorse in futuro.
+- Il presidente dispone dell'appoggio della [Web Intelligence](../Remix/deep.md) per le sue ricerche, si stima che entro il 2035 tutti gli [Strumenti dei Fondatori](../Remix/tool.md) saranno archiviati e successivamente distrutti, per evitare una fuga di risorse in futuro.
 - Conosce perfettamente il Russo, d'altronde tutta l'operazione ha avuto inizio nei server Russi.
 - Uno dei suoi orecchini è un fantasma di Pac-Man.
 - Porta sempre con sè una molotov con la skin di una bottiglia di Vodka.

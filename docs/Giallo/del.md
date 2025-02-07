@@ -4,7 +4,7 @@ tags:
 
 ...
 
-# Tulipana Verde
+# Tulipana
 
 ![tulipanaverde](../eg/Y/tulipana.jpg)
 
