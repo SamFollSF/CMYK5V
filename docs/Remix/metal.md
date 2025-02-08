@@ -48,7 +48,7 @@ Il Platino è il metallo più potente di tutto il Web, considerato una risorsa i
 
 Ad oggi, nessuno nel Web ha mai avuto accesso a una quantità di Platino sufficiente per creare equipaggiamenti completamente forgiati in questo metallo, ma chiunque ci riuscisse diventerebbe senza dubbio uno degli esseri più potenti mai esistiti.
 
-La straordinaria forza del Platino non si limita all’ambito fisico ma si estende anche a quella interiore e spirituale, dando origine a un vero e proprio [Culto Religioso](../Nero/bird.md) che circonda questo metallo.
+La straordinaria forza del Platino non si limita all’ambito fisico ma si estende anche a quella interiore e spirituale, dando origine a un vero e proprio [Culto Religioso](../Nero/matteowsky.md) che circonda questo metallo.
 
 Ma quindi il mito qui qual è? Non ne esiste uno soltanto ma molteplici. Quello visto nella carta è EmmeElle, figura di speranza e di rispetto. Quello che dovete sapere è che nel caso del Platino i miti servono più per dare una facciata positiva al metallo, che inizialmente fu visto come una grande minaccia dalla popolazione del Web. Oggi le cose sono migliorate ma l'opinione pubblicca è divisa in due: chi appoggia l'idea di avere un metallo così potente e chi ne vorrebbe l'estinzione.
 

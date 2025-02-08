@@ -12,7 +12,7 @@ tags:
 
 Ales Dreams è il presidente dell'Operazione Red Winter, un'iniziativa nata per monitorare l'uso e la diffusione degli [Strumenti dei Fondatori](../Remix/tool.md) ottenuti illegalmente nel [Surface Web](../Remix/deep.md). Questi potentissimi strumenti sono stati dichiarati illegali solo a partire dal 2020, salvo specifiche autorizzazioni governative. Questo ritardo normativo ha permesso una diffusione massiccia di questi strumenti, ma con l'introduzione di leggi così restrittive, si stima che ne rimanga attivo solo il 2%.
 
-Ella è a conoscenza di molti sospettati, tra cui [SamFollSF](../Remix/samfollsf.md) e [OpsGiuly](../Nero/opsg.md), ma manca delle prove necessarie per ottenere un mandato di arresto globale. Se mai venissero catturati, la loro pena sarà stabilita dalla Digital Court. Con lei fanno parte dell'Operazione: [1udovìt](../Ciano/ludovit.md), [NotFleex](../Ciano/notfleex.md), [Chitty](../Magenta/chitty.md) e [Gabmiglior_](../Nero/gabmiglior.md).
+Ella è a conoscenza di molti sospettati, tra cui [SamFollSF](../Remix/samfollsf.md) e [OpsGiuly](../Nero/opsgiuly.md), ma manca delle prove necessarie per ottenere un mandato di arresto globale. Se mai venissero catturati, la loro pena sarà stabilita dalla Digital Court. Con lei fanno parte dell'Operazione: [1udovìt](../Ciano/ludovit.md), [NotFleex](../Ciano/notfleex.md), [Chitty](../Magenta/chitty.md) e [Gabmiglior_](../Nero/gabmiglior.md).
 
 ## Colore
 

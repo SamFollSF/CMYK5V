@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-Insieme a [Brioche33](../Magenta/santin.md) svolge un'attività illegalissima, ovvero il furto di dati sensibili, sotto il nome in codice di "Lair". I clienti che scelgono di utilizzare questi servizi non sono sempre criminali, ma includono anche Agent che sospettano di essere traditi o che temono di essere vittime di un complotto contro di loro. Dopo l'acquisizione da parte della [Snoctix.inc](../Magenta/solisnoctix.md) i guadagni e la popolarità di questo business sono decisamente aumentati.
+Insieme a [Brioche33](../Magenta/brioche33.md) svolge un'attività illegalissima, ovvero il furto di dati sensibili, sotto il nome in codice di "Lair". I clienti che scelgono di utilizzare questi servizi non sono sempre criminali, ma includono anche Agent che sospettano di essere traditi o che temono di essere vittime di un complotto contro di loro. Dopo l'acquisizione da parte della [Snoctix.inc](../Magenta/solisnoctix.md) i guadagni e la popolarità di questo business sono decisamente aumentati.
 
 ## Colore
 

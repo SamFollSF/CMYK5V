@@ -28,7 +28,7 @@ Con una personalità così malvagia e crudele, Sam non poteva che collezionare u
 
 - Dopo un violento litigio con [Red Ghost](../Giallo/redghost.md), scaturito dal fallimento di un’attività che i due avevano avviato insieme e che era stata rovinata da Sam, i due non si parlano da circa due anni. Se dovessero incontrarsi di nuovo, non esiterebbero a combattere.
 
-- Nell’autunno del 2023, Sam ha tentato di assassinare [OpsGiuly](../Nero/opsg.md) per impossessarsi della sua [Chiave Quadridimensionale](../Remix/tool.md). Tuttavia, a causa della propria spavalderia, aveva sottovalutato l’avversario. Ora si trova costretto a combattere non solo contro OpsG, ma anche contro i suoi alleati.
+- Nell’autunno del 2023, Sam ha tentato di assassinare [OpsGiuly](../Nero/opsgiuly.md) per impossessarsi della sua [Chiave Quadridimensionale](../Remix/tool.md). Tuttavia, a causa della propria spavalderia, aveva sottovalutato l’avversario. Ora si trova costretto a combattere non solo contro OpsG, ma anche contro i suoi alleati.
 
 - Sam è in debito di un diamante con la [Snoctix.Inc](../Magenta/solisnoctix.md), una situazione complicata che non sa come risolvere. Questo elemento di trama sarà approfondito in futuro.
 
@@ -38,7 +38,7 @@ Il vero declino nella vita di SamFollSF avviene nel 2020, quando decide di unirs
 
 All’inizio, Sam non sembra affatto intimorito, almeno fino a quando non scopre la vera natura di quelle penne. Apparentemente si presentano come semplici oggetti inanimati, armi di supporto. Ma nel momento esatto in cui ne tocca una per la prima volta, la verità gli si rivela: non si tratta solo di penne, ma di esseri viventi. Sono Malware, parassiti metallizati, incarnazione della sua più grande fobia.
 
-Da quel giorno, il parassita si insedia nel corpo di Sam, prendendo il controllo e influenzando molte delle sue scelte e diventando l’artefice della sua spietatezza. È stato il parassita a orchestrare il tentato omicidio di [OpsGiuly](../Nero/opsg.md), poi fallito. È sempre lui la causa del litigio con [Red Ghost](../Giallo/redghost.md). Nonostante ciò tutte le malefatte sono state comunque approvate da Sam, rendendolo colpevole e assolutamente non innocente.
+Da quel giorno, il parassita si insedia nel corpo di Sam, prendendo il controllo e influenzando molte delle sue scelte e diventando l’artefice della sua spietatezza. È stato il parassita a orchestrare il tentato omicidio di [OpsGiuly](../Nero/opsgiuly.md), poi fallito. È sempre lui la causa del litigio con [Red Ghost](../Giallo/redghost.md). Nonostante ciò tutte le malefatte sono state comunque approvate da Sam, rendendolo colpevole e assolutamente non innocente.
 
 Se solo provasse a ribellarsi, il parassita, che ha accesso diretto alle sue componenti vitali, potrebbe prendere il controllo completo del suo corpo e, nel peggiore dei casi, porre fine alla sua vita in un istante.
 

@@ -20,7 +20,7 @@ Il Blu Savoia è in realtà una sfumatura di azzurro. Deve il suo nome al fatto 
 
 - Selezione: La pinna che indossa sulla schiena non è solo un elemento decorativo, gli permette di muoversi con molta agilità sott'acqua, essendo il blocco 137 vicino ai grandi [Ristagni d'Acqua](../Remix/frutiger.md).
 - Sulla sua corona è presente un delfino, simbolo di legame con l'acqua.
-- Come hobby pratica la modellazione 3D su Blender, tema discusso ampiamente nelle carte di [Androzz](../Magenta/androzz.md) e [Marwis](../Ciano/senatore.md).
+- Come hobby pratica la modellazione 3D su Blender, tema discusso ampiamente nelle carte di [Androzz](../Magenta/androzz.md) e [Marwis](../Ciano/marwis.md).
 - Golden è l'Agent di Renato Iuffredo.
 
 # Versione Mazzo 1.0

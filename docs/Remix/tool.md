@@ -14,7 +14,7 @@ La Chiave Quadridimensionale consente di creare portali, noti come Whormole. In 
 
 Per decidere dove aprire un portale è possibile inserire tutte e 4 le coordinate sulla parte finale della Chiave. Esistono due tipologie di portali: "Perpetui" e a "Farfalla". Il primo rimane aperto anche se vi ci passa dentro un Agent, il secondo si chiude subito dopo l'utilizzo, ottimo per scappare in casi di emergenza.
 
-[OpsGiuly](../Nero/opsg.md) è in possesso di una di queste chiavi.
+[OpsGiuly](../Nero/opsgiuly.md) è in possesso di una di queste chiavi.
 
 ## Forbici CopyPasta
 

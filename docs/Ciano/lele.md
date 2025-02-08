@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-Lele, soprannominata la "Dea di Cristallo" per via del suo possesso di 5 miniere volte all'estrazione di [Web Crystals](../Remix/crystal.md), è un'artigiana di accessorri estetici e di armi realizzate con questi cristalli. Nel [Surface Web](../Remix/deep.md) non è illegale esserne in possesso, è il loro utilizzo ad essere soggetto a molte restrizioni. Ogni cristallo ha il suo potere unico, più se ne hanno e più si sarà potenti. Come [Brioche33](../Magenta/santin.md) e [PickMeGiuls](pistilli.md) anche lei è affiliata alla [Snoctix.inc](../Magenta/solisnoctix.md) che gestisce e detiene in parte i suoi averi.
+Lele, soprannominata la "Dea di Cristallo" per via del suo possesso di 5 miniere volte all'estrazione di [Web Crystals](../Remix/crystal.md), è un'artigiana di accessorri estetici e di armi realizzate con questi cristalli. Nel [Surface Web](../Remix/deep.md) non è illegale esserne in possesso, è il loro utilizzo ad essere soggetto a molte restrizioni. Ogni cristallo ha il suo potere unico, più se ne hanno e più si sarà potenti. Come [Brioche33](../Magenta/brioche33.md) e [PickMeGiuls](pickmegiuls.md) anche lei è affiliata alla [Snoctix.inc](../Magenta/solisnoctix.md) che gestisce e detiene in parte i suoi averi.
 
 ## Colore
 

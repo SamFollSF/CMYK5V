@@ -22,7 +22,7 @@ Alcuni colori sono capaci di mettere subito di buonumore, e il Verde Menta è di
 
 - Lo stile della carta combina elementi delle civiltà antiche con influenze queer, evidenti nei dettagli come i capelli rasati sui lati, le calzamaglie che avvolgono le braccia e un cerchio di piume dai colori arcobaleno.
 - Indossa 2 spille: Una con il logo di [SamFollSF](../Remix/samfollsf.md) e una con il logo di Trenitalia, che per fortuna non esiste nel WebVerse.
-- Non usa un singolo nome, ne usa di diversi per potersi garantire un basso profilo, è doveroso citare nomi dal calibro di "Tortellini Viola". Anche il mitico [Assasseeeeno](../Ciano/mimmo.md) usa diversi nomi.
+- Non usa un singolo nome, ne usa di diversi per potersi garantire un basso profilo, è doveroso citare nomi dal calibro di "Tortellini Viola". Anche il mitico [Assasseeeeno](../Ciano/assasseeeeno.md) usa diversi nomi.
 - Tulipana Verde è il Manager di Delia Lo Turco.
 
 # Versione Mazzo 1.0

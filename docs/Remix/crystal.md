@@ -48,7 +48,7 @@ Lapislazzulo: [The Deather](../Ciano/thedea.md)
 
 Smeraldo: [NotFleex](../Ciano/notfleex.md)
 
-Turchese: [KK](../Ciano/kekka.md)
+Turchese: [KK](../Ciano/kka.md)
 
 Ametista: [IlPanettone](../Magenta/ilpanettone.md)
 
@@ -58,7 +58,7 @@ Rubellite: [Solisnoctix](../Magenta/solisnoctix.md)
 
 Citrino: [Geadamn](../Giallo/geadamn.md)
 
-Peridoto: [Prutusin](../Giallo/prezzemolo.md)
+Peridoto: [Prutusin](../Giallo/prutusin.md)
 
 Zolfo Cristallizato: [Frashadow](../Giallo/frashadow.md)
 
