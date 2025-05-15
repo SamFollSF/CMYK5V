@@ -9,3 +9,7 @@ Il Mazzo si trova nella versione 1.0 del 5 Febbraio. Purtroppo mancano ancora ci
 # V 1.0.1
 
 Questa versione aggiunge due nuove carte Nere, Mevrie e Francis.
+
+# V 1.0.2
+
+Questa versione aggiunge due nuove carte Magenta, Mara e Giuliarpia.
