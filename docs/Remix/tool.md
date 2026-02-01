@@ -26,11 +26,11 @@ Ancora oggi nessuno sa spiegare come, 30 anni fa, queste forbici siano riuscite 
 
 [SamFollSF](../Remix/samfollsf.md) e [Tulipana Verde](../Giallo/del.md) sono in possesso di queste forbici.
 
-## Bussola Olistica
+## Bussola Ineffabile
 
 ![bussola](../eg/5/compass.jpg)
 
-La Bussola Olistica ha accesso a un databes potenzialmente infinito di informazioni. Con questo strumento e la sua immensa potenza di calcolo ci permette di sapere quale decisione prendere, se una persona sta mentendo, le conseguenze delle nostre azioni, tutto! È una vera e propria sfera di cristallo digitale.
+La Bussola Ineffabile ha accesso a un databes potenzialmente infinito di informazioni. Con questo strumento e la sua immensa potenza di calcolo ci permette di sapere quale decisione prendere, se una persona sta mentendo, le conseguenze delle nostre azioni, tutto! È una vera e propria sfera di cristallo digitale.
 
 Si presenta in maniera simile ad un ChatGPT ma molto, molto più potente e intuitivo, anche se a differenza di quest'ultimo non si presenta come intelligenza artificiale ma semplicemente come "Bussola".
 

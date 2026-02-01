@@ -13,3 +13,7 @@ Questa versione aggiunge due nuove carte Nere, Mevrie e Francis.
 # V 1.0.2
 
 Questa versione aggiunge due nuove carte Magenta, Mara e Giuliarpia.
+
+# V 1.0.3
+
+Questa versione aggiunge sei nuove carte Ciano e Nere: Anya, Zw3ih_nd3r e Maybe Bless. Oltre a queste anche i 3 Diamanti nel mazzo R3M1X.

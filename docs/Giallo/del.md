@@ -1,6 +1,6 @@
 ---
 tags:
-  - Gallery
+  - Red Winter
 
 ...
 
