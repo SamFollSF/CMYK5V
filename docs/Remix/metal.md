@@ -4,7 +4,7 @@
 
 Nel WebVerse esiste una vasta varietà di metalli, tra cui alcuni estremamente rari e potenti, che hanno dato origine a veri e propri miti. Questi materiali, noti come "Metalli Nobili," sono riservati esclusivamente a utilizzi specificamente autorizzati dal governo. Di conseguenza, il loro possesso è considerato illegale per chiunque non disponga di un valido motivo o permesso ufficiale.
 
-## Bronzo
+## Rame
 
 ![bronzo](../eg/5/copper.jpg)
 

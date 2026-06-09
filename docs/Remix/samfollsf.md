@@ -32,7 +32,7 @@ Con una personalità così malvagia e crudele, Sam non poteva che collezionare u
 
 ![samfollsf2](../eg/5/samfollsf2.jpg)
 
-Il vero declino nella vita di SamFollSF avviene nel 2020, quando decide di unirsi alla Lega di Bronzo, una setta riservata a chi ha il coraggio di integrare nella propria vita una S Pen metallizzata, (quella che indossa sulla schiena).
+Il vero declino nella vita di SamFollSF avviene nel 2020, quando decide di unirsi alla "Lega Rame", una setta riservata a chi ha il coraggio di integrare nella propria vita una S Pen metallizzata, (quella che indossa sulla schiena).
 
 All’inizio, Sam non sembrava affatto intimorito, almeno fino a quando non scoprì la vera natura di quelle penne. Apparentemente si presentano come semplici oggetti inanimati, armi di supporto. Ma nel momento esatto in cui ne tocca una per la prima volta, la verità gli si rivela: non si trattava solo di una S pen, ma di esseri viventi. Sono Malware, parassiti metallizati, incarnazione della sua più grande paura.
 
