@@ -1,1 +1,1 @@
-# Versione attuale: 1.0
+# Versione attuale: 1.0.3
