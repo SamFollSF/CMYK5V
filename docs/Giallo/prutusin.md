@@ -14,7 +14,7 @@ Abbiamo visto come gli Agent e le persone reali differiscano in tutto, sia nel c
 
 Un esempio concreto di fratellanza nel Web sono [SamFollSF](../Remix/samfollsf.md) e [BlaseJewel51](../Remix/over.md): due account legati alla stessa persona reale e, per questo, fratelli a tutti gli effetti.
 
-Tutto questo per arrivare a un punto importante: nel Web, i "fratelli" sono una rarità, molto più di quanto si possa immaginare. Ecco perché Prutusin e [IlPanettone](../Magenta/ilpanettone.md), per quanto legati nel mondo reale, nel Web potrebbero essere dei perfetti sconosciuti.
+Nel Web, i "fratelli" sono una rarità, molto più di quanto si possa immaginare. Ecco perché Prutusin e [IlPanettone](../Magenta/ilpanettone.md), per quanto legati nel mondo reale, nel Web potrebbero essere dei perfetti sconosciuti. Tuttavia non è questo il caso, sono amici e si aiutano a vicenda.
 
 ## Colore
 
@@ -24,8 +24,7 @@ Il peridoto è caratterizzato da un verde intenso e vivido, che può variare dal
 
 - Il suo design è a tutti gli effetti collegato a quello Cowboy de [IlPanettone](../Magenta/ilpanettone.md), infatti i loro cappelli hanno le iniziali delle loro controparti reali (M e N)
 - Possiede, come è possibile vedere nella carta, una piccola S Pen in rame ossidato prestata da [IlPanettone](../Magenta/ilpanettone.md), quest'ultimo ha infatti diviso le S Pen in due per permettere anche a lei di utilizzarla.
-- Sul gilet è presente il numero 17. (Eh no, 17 non sta per "Blocco 17)
+- Sul gilet è presente il numero 17.
 - È riuscita ad entrare nel Clan HotRide con qualche raccomandazione, ma almeno si rende utile portando il caffè ai sicari più importanti.
-- Prutusin è l'Agent di Maria Di Colandrea.
 
-# Versione Mazzo 1.0
+# Volume I: HOT RIDE

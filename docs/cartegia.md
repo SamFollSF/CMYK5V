@@ -9,5 +9,3 @@ Usa la lista di Sinistra per scoprire tutte le carte dal colore prevalentemente 
 ## Colore
 
  Tra i popoli orientali il giallo ha molti significati positivi, per esempio nella cultura buddista indica saggezza: in quella cinese rappresenta l'imperatore, ma anche la spiritualità, la tolleranza e la salute, Mentre nella cultura giappepese è simbolo di grazia e nobiltà.
-
-# Versione Mazzo 1.0

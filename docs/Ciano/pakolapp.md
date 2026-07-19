@@ -12,6 +12,8 @@ tags:
 
 Anche se si sta parlando di un mondo digitale le 4 ruote non possono mancare. Esse vengono usate per spostamenti lunghi nella megatropoli del [Surface Web](../Remix/deep.md). PakoLapp lavora come dipendente in un concessionario di auto di lusso di grande prestigio, L'Imperium Space. Tuttavia, nel tempo libero non si fa scappare la possibilità di partecipare a gare clandestine con i suoi amici.
 
+Il Counter-Culture Motor Show è l’evento annuale più atteso del [Surface Web](../Remix/deep.md), una notte folle di musica, motori, trafici clandestini e peccati irrimediabili in cui PakoLapp, [Frashadow](../Giallo/frashadow.md) e la loro squadra pianificheranno il colpo del secolo: costruire l'auto più iconica dell'edizione 2024.
+
 ## Colore
 
 Celeste è il mantello della Vergine nei dipinti di arte sacra del Rinascimento; è il cielo parigino di Kandinsky nel suo celebre dipinto "Azzurro Cielo" e celeste è anche lo sfondo che rende fieri "I valori personali di Magritte". Celeste è pace. È perfetto per la palette Spring!
@@ -23,6 +25,5 @@ Celeste è il mantello della Vergine nei dipinti di arte sacra del Rinascimento;
 - Gli sponsor che ha sulla sua tuta sono: Chevrolet (Spark), It's WCO ed E-cola.
 - Ha un numero spropositato di ore su Grand Theft Auto V, perché sì anche gli Agent giocano ai videogiochi.
 - Sà parlare perfettamente lo Spagnolo.
-- Pako Lapp è l'Agent di Pasuale Lappone.
 
-# Versione Mazzo 1.0
+# Volume V: COUNTER-CULTURE MOTOR SHOW

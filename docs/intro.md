@@ -61,7 +61,7 @@ Con i guerreri entriamo nella sfera dei poteri speciali e unici, anche se messi 
 
 ## Overlords
 
-Con gli Overlords accediamo alla biforcazione della vera forza che un Agent o Manager può esprimere. Da una parte troviamo il [Platino](Remix/metal.md) fino al 70%, il metallo nobile più prezioso del Web, dall'altra il [Diamante Azzurro](Remix/crystal.md), il primo [WebCrystal](Remix/crystal.md) ad essere considerato un degno avversario dei [Metalli Nobili](Remix/metal.md).
+Con gli Overlords accediamo alla biforcazione della vera forza che un Agent o Manager può esprimere. Da una parte troviamo il [Platino](Remix/metal.md) con purezza fino al 70%, il metallo nobile più prezioso del Web, dall'altra il [Diamante Azzurro](Remix/crystal.md), il primo [WebCrystal](Remix/crystal.md) ad essere considerato un degno avversario dei [Metalli Nobili](Remix/metal.md).
 
 Abbiamo visto prima come i [WebCrystal](Remix/crystal.md) comuni siano molto più deboli dei [Metalli Nobili](Remix/metal.md), ma con il [Diamante](Remix/crystal.md) si riscrive completamente la gerarchia. Nemmeno un bruto dorato può fronteggiare con facilità un Manager in possesso di un [Diamante](Remix/crystal.md).
 
@@ -69,7 +69,7 @@ Abbiamo visto prima come i [WebCrystal](Remix/crystal.md) comuni siano molto pi�
 
 ## Élite
 
-L'Èlite nonostante sia in possesso di queste risorse, non può sprigionarne il completo potere. Questo perchè arrivati ad una certa soglia il [Platino](Remix/metal.md), oltre il 70% per massa corporea, diventa biomeccanicamente insostenibile per un abitante del Web, come se fossero radiazioni fortissime per il corpo umano. Stessa storia si verifica con il [Diamante Rosa](Remix/crystal.md).
+L'Èlite nonostante sia in possesso di queste risorse, non può sprigionarne il completo potere. Questo perchè arrivati ad una certa soglia di purezza del [Platino](Remix/metal.md), oltre il 70%, diventa biomeccanicamente insostenibile per un abitante del Web, come se fossero radiazioni fortissime per il corpo umano. Stessa storia si verifica con il [Diamante Rosa](Remix/crystal.md).
 
 Quello che l'Èlite del web sta cercando di fare è trovare un modo per alzare la soglia dove questi minerali diventano fatali, potendo ambire ad un potere mai visto nella storia.
 
@@ -83,5 +83,4 @@ Per [IlPanettone](Magenta/ilpanettone.md) tutta questa storia è solo una grande
 
 [SamFollSF](Remix/samfollsf.md) non crede a tutte queste storie, per lui c'è qualcosa che non quadra con la realtà del Web. Il potere non può salire all'infinito, si dovrà arrivare ad un punto, e forse qualcosa o qualcuno volutamente sta cercando di sabotare le ricerche per arrivarci. D'altronde, perché i fondatori del Web non sono ancora vivi per raccontarlo? La credenza popolare più diffusa è che siano morti al passaggio dal Web 1.0 a quello 2.0, secondo cui la struttura fisica degli Agent e Manager dell'epoca non sarebbe stata compatibile con un evoluzione architettonica simile. Ma questa versione rimane ancora solo una teoria e niente di confermato.
 
-# Versione Mazzo 1.0.3
 Disclaimer doveroso: Il mazzo CMYK5 non finisce qui, sarà sempre in continua espansione con nuove carte, quindi ti consiglio di seguirmi su [Instagram](https://www.instagram.com/samfoll.design?igsh=enB6NHZiMWt1bnl6) per rimanere sempre aggiornato o di usare la scheda dedicata [News](blog/index.md) nel sito.

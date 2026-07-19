@@ -47,5 +47,3 @@ La tecnologia ultravioletta ha diverse applicazioni nella vita quotidiana, dalla
 Katia, un personaggio già apparso nella carta [Argento](../Remix/metal.md). Per il momento non voglio dire nulla su di lei per creare volutamente mistero dietro questa carta. Una cosa che posso dirvi è che Katia è un Nativa del Web, e quindi non esiste per via di un Utente Umano.
 
 Come per il Mazzo CMYK Anche qui però abbiamo un colore associato a lei, il "Lucid Shade" formato da: 83 di Aurora; 35 di Noctis e 90 di Spectra. Ovviamente sia la carta che il colore sono completamente neri, in quanto l'occhio umano non riesce a vedere questi colori. 
-
-# Versione Mazzo 1.0

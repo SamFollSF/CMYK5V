@@ -27,5 +27,3 @@ Il blu è il colore a cui i nostri occhi sono meno sensibili rispetto al rosso e
 ![white](../eg/5/bianco.jpg)
 
 Il Bianco non fa parte dei colori primari della sintesi additiva, ma ho deciso di includerlo ugualmente, in quanto è il risultato di tutti e tre i colori messi insieme.
-
-# Versione Mazzo 1.0

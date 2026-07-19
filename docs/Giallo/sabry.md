@@ -18,10 +18,8 @@ La prima volta che si è usata questa espressione per identificare questo colore
 
 ## Curiosità
 
-- Ha ottenuto questo lavoro grazie all'iscrizione da parte della sua controparte reale alla facoltà di giurisprudenza, anche se è un evento più unico che raro ottenere una carica simile.
-- Sul suo pantalone c'è la scritta "600", come la controparte "500" di [Shadow Èlite](../Magenta/shadowelite.md).
+- Sul suo vestito c'è la scritta "600", come la controparte "500" di [Shadow Èlite](../Magenta/shadowelite.md).
 - Per esigenze lavorative ha dovuto imparare l'Inglese, Francese, Spagnolo e Ceco. L'apprensione di una lingua inedita per un Agent è istantanea, si importa letteralmente un nuovo linguaggio nella propria stringa di codice sorgente, ma è un'operazione tremendamente costosa.
 - Indossa una felpa con la scritta "The Law".
-- SAaBRYy è l'Agent di Sabrina Ciotola.
 
-# Versione Mazzo 1.0
+# Volume I: HOT RIDE

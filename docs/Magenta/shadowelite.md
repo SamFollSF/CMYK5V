@@ -10,14 +10,12 @@ tags:
 
 ## Descrizione
 
-Il lavoro di Shadow Èlite consiste nell'estrarre dalle miniere i metalli che compongono le banconote e le monete del Web: Ferro, Alluminio, Mercurio e Titanio. Il valore della moneta aumenta progressivamente dal Ferro al Titanio, ma, a differenza dei [Metalli Nobili](../Remix/metal.md), questi non conferiscono poteri particolari; sono semplicemente oggetti di valore economico. Per fare un metro di paragone potremmo dire che:
+Il lavoro di Shadow Èlite consiste nell'estrarre dalle miniere i metalli comuni del Web: Ferro, Alluminio, Mercurio e Titanio. A differenza dei [Metalli Nobili](../Remix/metal.md), questi non conferiscono poteri di uguale potere distruttivo, ma possono arrivarci e come nell'utilizzo difensivo. Lastre di Titanio possono completamente annullare il potere del [Platino](../Remix/metal.md), ovviamente a patto di sapersi difendere da uno dei minerali più potenti del WebVerse. Il Titanio richiede un'abilità in combattimento eccellente, nervi d'acciaio e sangue freddo per riuscire a difendersi egregiamente. Tuttavia quando il [Platino](../Remix/metal.md) raggiunge la purezza prossima all'80% allora anche quest'ultimo metallo deve inginocchiarsi, solo il [Diamante Rosa](../Remix/crystal.md) può fronteggiarlo.
 
-- Una moneta di Ferro: 5$
-- Una moneta di Alluminio: 15$
-- Una banconota di Mercurio: 50$
-- Una banconota di Titanio: 150$
-
-In futuro questi metalli avranno le loro carte dedicate, magari nella versione del mazzo 1.1.
+In particolar modo:
+- Il Ferro neutralizza egregiamente il [Rame](../Remix/metal.md).
+- L'Alluminio neutralizza egregiamente l'[Argento](../Remix/metal.md).
+- Il Mercurio neutralizza egregiamente l'[Oro](../Remix/metal.md).
 
 ## Colore
 
@@ -25,10 +23,9 @@ Rosa vivace con una punta di rosso leggermente aranciato, il Geranio è un color
 
 ## Curiosità
 
-- Per l'estrazione mineraria utilizza un piccone lavorato in [Diamante](../Remix/crystal.md), un cristallo molto robusto adatto a lavori così usuranti. (Carta Diamante in arrivo con il Mazzo 1.1)
+- Per l'estrazione mineraria utilizza un piccone lavorato in [Diamante](../Remix/crystal.md), il cristallo più potente del WebVerse.
 - Indossa una spilla con le iniziali "RH".
 - Sulle bretelle appare la scritta "500", come la controparte "600" di [SAaBRYy](../Giallo/sabry.md).
 - In passato ha lavorato in un centro scommesse insieme a [Pulak](../Nero/pulak.md), frequentato solitamente da [SamFollSF](../Remix/samfollsf.md).
-- Shadow Èlite è l'Agent di Cristian Di Fraia.
 
-# Versione Mazzo 1.0
+# Volume I: HOT RIDE

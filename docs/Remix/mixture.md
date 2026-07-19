@@ -27,5 +27,3 @@ Descrizione Colore: Rosso parla di antiche divinità e creature mitologiche, di 
 la miscela Verde si ottiene unendo il 100% di Giallo con il 100% di Ciano.
 
 Il verde ha un significato simbolico stratificato e contraddittorio. Era considerato il colore della sorte, volubile. Ecco perché lo ritroviamo sui tavoli da gioco, ma anche nelle banconote. Tanti lo amano, ma pochi lo indossano: forse c'è qualcosa di vero nel detto "Chi di verde veste, troppo di beltà sua si fida"?
-
-# Versione Mazzo 1.0

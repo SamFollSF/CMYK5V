@@ -10,13 +10,13 @@ tags:
 
 ## Descrizione
 
-I fuggitivi del [Deep Web Nascosto](../Remix/deep.md) hanno due opzioni per scappare. La prima, più rischiosa, consiste nell’utilizzare un foro clandestino nel sottosuolo del [Surface Web](../Remix/deep.md), con il pericolo costante di essere scoperti dalle forze dell’ordine e giustiziati. La seconda, più sicura ma costosa, è affidarsi a un broker, un intermediario che permette la fuga utilizzando una [Chiave Quadridimensionale](../Remix/tool.md).
+I fuggitivi del [Deep Web Nascosto](../Remix/deep.md) hanno due opzioni per scappare. La prima, più rischiosa, consiste nell’utilizzare un foro clandestino nel sottosuolo del [Surface Web](../Remix/deep.md), con il pericolo costante di essere scoperti dalle forze dell’ordine e giustiziati. La seconda, più sicura ma costosa, è affidarsi a un broker, un intermediario che permette la fuga organizzando una scalata su per la muraglia del [Deep Web Esposto](../Remix/deep.md).
 
-XbloodXan è uno di questi broker, ma non possiede una [Chiave Quadridimensionale](../Remix/tool.md) personale: appartiene infatti alla [Snoctix.inc](../Magenta/solisnoctix.md), la stessa società di [Lele](../Ciano/lele.md), [PickMeGiuls](../Ciano/pickmegiuls.md), ecc. Ma come si entra in contatto con un broker?
+XbloodXan è uno di questi broker, il quale lavora per conto della [Snoctix.inc](../Magenta/solisnoctix.md), la stessa società di [Lele](../Ciano/lele.md), [PickMeGiuls](../Ciano/pickmegiuls.md), ecc. Ma come si entra in contatto con un broker?
 
-Il processo è semplice: il pagamento avviene attraverso un tramite, chiamato Medium, che si muove nel [Deep Web Nascosto](../Remix/deep.md). Questi emissari sono sempre ben vestiti e difficili da derubare. Oltre a sapersi difendere, portano con sé dell’argento, una risorsa che nel [Deep Web Nascosto](../Remix/deep.md) li rende quasi divinità.
+Il processo è semplice: il pagamento avviene attraverso un tramite, chiamato Medium, che si muove nel [Deep Web Nascosto](../Remix/deep.md). Questi emissari sono sempre ben vestiti e difficili da derubare. Oltre a sapersi difendere, portano con sé dell’[Oro](../Remix/metal.md), una risorsa che nel [Deep Web Nascosto](../Remix/deep.md) li rende quasi divinità.
 
-Solo quando un [Overthrown](../Remix/over.md) riesce a raccogliere la somma richiesta dall’Agent inviato dal broker, può finalmente ottenere l’accesso a un portale quadridimensionale e fuggire.
+Solo quando un [Overthrown](../Remix/over.md) riesce a raccogliere la somma richiesta dall’Agent inviato dal broker, può finalmente ottenere il contatto con chi promette loro la libertà.
 
 ## Colore
 
@@ -26,6 +26,5 @@ Il carbone è stato il colore più vicino al nero che i paleolitici riuscirono a
 
 - Come è possible vedere nella carta porta con sè un'Antenna Satellitare, utilizzata per mettersi con contatto con i Medium.
 - Sulla sua maglietta c'è un simbolo della cacca, ottenibile solo tramite il gruppo dell'accademia dedicato.
-- XbloodXan è l'Agent di Gianni Scotto Di Carlo.
 
-# Versione Mazzo 1.0
+# Volume VI: BE OKAY

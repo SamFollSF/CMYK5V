@@ -10,7 +10,9 @@ tags:
 
 ## Descrizione
 
-Lele, soprannominata la "Dea di Cristallo" per via del suo possesso di 5 miniere volte all'estrazione di [Web Crystals](../Remix/crystal.md), è un'artigiana di accessorri estetici e di armi realizzate con questi cristalli. Nel [Surface Web](../Remix/deep.md) non è illegale esserne in possesso, è il loro utilizzo ad essere soggetto a molte restrizioni. Ogni cristallo ha il suo potere unico, più se ne hanno e più si sarà potenti. Come [Brioche33](../Magenta/brioche33.md) e [PickMeGiuls](pickmegiuls.md) anche lei è affiliata alla [Snoctix.inc](../Magenta/solisnoctix.md) che gestisce e detiene in parte i suoi averi.
+Lele, soprannominata dai suoi amici la "Dea di Cristallo" per via della sua carica di direttrice di 5 miniere volte all'estrazione di [Web Crystals](../Remix/crystal.md), è un'artigiana di accessorri estetici e di armi realizzate con questi cristalli. Nel [Surface Web](../Remix/deep.md) non è illegale esserne in possesso, è il loro utilizzo ad essere soggetto a molte restrizioni. Ogni cristallo ha il suo potere unico, più se ne hanno e più si avranno dei benefici. Come [Brioche33](../Magenta/brioche33.md) e [PickMeGiuls](pickmegiuls.md) anche lei è affiliata alla [Snoctix.inc](../Magenta/solisnoctix.md) che gestisce e detiene in buona parte i suoi averi.
+
+Lele a differenza di tutti gli altri componenti della [Snoctix.inc](../Magenta/solisnoctix.md) ha una carica più alta, è difatti socia di minoranza. In caso [Solisnoctix](../Magenta/solisnoctix.md) ha bisogno di lasciare la sua carica per un periodo, Lele può prendere il comando.
 
 ## Colore
 
@@ -23,6 +25,5 @@ L'Acquamarina nasce in natura sotto forma di cristalli esagonali (la più grande
 - Nel tempo libero passeggia sulle rive dei grandi [Ristagni d'Acqua](../Remix/frutiger.md) alla ricerca di vetrini che può usare per i suoi accessori estetici.
 - Ha un notevole autocontrollo ed eleganza nel porsi, anche se in alcuni casi dei fastidiosissimi [SamFollSF](../Remix/samfollsf.md) tirano molto la corda, fidatevi nessuno vorrebbe vederla incazzata.
 - Ha sul collo un tattoo di un uccello.
-- Lele è l'Agent di Alessia Cozzolino.
 
-# Versione Mazzo 1.0
+# Volume VI: BE OKAY

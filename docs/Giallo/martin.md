@@ -12,7 +12,7 @@ tags:
 
 Arruolato nell'esercito del [Surface Web](../Remix/deep.md) dal 2018, inizialmente insieme a [Il Panettone](../Magenta/ilpanettone.md), che però ha lasciato poco dopo, It's Martin non ha mai avuto molto da fare oltre a qualche simulazione periodica. La vera difesa di questa regione del Web è affidata a chi opera nelle profondità più remote, ma di questo parleremo più avanti. Morale della favola: It's Martin può passare intere giornate a giocare a Call of Duty... e viene pure pagato per farlo.
 
-Non sto scherzando: Ad occuparsi dell'ordine pubblico ci pensano già i [Cavalieri di Rame](../Remix/metal.md) e i [Bruti Dorati](../Remix/metal.md), quindi gli Agent che lavorano per l'esercito non sono altro che una formalità.
+Non sto scherzando: Ad occuparsi dell'ordine pubblico ci pensano già i [Cavalieri di Rame](../Remix/metal.md) e i [Bruti Dorati](../Remix/metal.md), quindi gli Agent che lavorano per l'esercito non sono altro che una formalità, risorse utili solo nei casi più remoti di guerre tra Network.
 
 ## Colore
 
@@ -20,10 +20,8 @@ Non sto scherzando: Ad occuparsi dell'ordine pubblico ci pensano già i [Cavalie
 
 ## Curiosità
 
-- Fa parte del gruppo "It's Web Company", una comunità di alleanza segreta fra gli Agent che utilizzano varchi clandestini per il [Deep Web](../Remix/deep.md). Anche [It's Terry](../Ciano/itsterry.md) ne fa parte.
 - Possiede la fantomatica Katana di The Forest, mai trova da [SamFollSF](../Remix/samfollsf.md) e [Il Panettone](../Magenta/ilpanettone.md).
 - Ha un'arma con la mimetica DM Ultra. Anche nel Web esistono le mimetiche per le armi dinamiche.
 - Sulle sue cuffie in rilievo è presente il logo di Nvidia.
-- It's Martin è l'Agent di Martin Costa.
 
-# Versione Mazzo 1.0
+# Volume I: HOT RIDE

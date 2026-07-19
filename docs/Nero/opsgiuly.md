@@ -10,11 +10,9 @@ tags:
 
 ## Descrizione
 
-OpsGiuly proviene dal blocco 272, dove lo stile predominante è ispirato al cartoon vintage. È in possesso di una [Chiave Quadridimensionale](../Remix/tool.md), uno Strumento dei Fondatori che consente di creare Whormole, dei veri e propri teletrasporti che utilizzano scorciatoie spazio-temporali.
+OpsGiuly proviene dal Network 272, dove lo stile predominante è ispirato al cartoon vintage. È in possesso di una [Chiave Quadridimensionale](../Remix/tool.md), uno Strumento dei Fondatori che consente di creare Whormole, dei veri e propri teletrasporti che utilizzano scorciatoie spazio-temporali. In maniera sconsiderata, ha deciso di girare per il Web portando questo oggetto altamente illegale ben visibile, attirando così l’attenzione delle forze dell'ordine del [Surface Web](../Remix/deep.md), dell'Operazione [Red Winter](../Magenta/alesdreams.md) e di vari criminali desiderosi di impossessarsene.
 
-In maniera sconsiderata, ha deciso di girare per il Web portando questo oggetto altamente illegale ben visibile, attirando così l’attenzione delle forze dell'ordine del [Surface Web](../Remix/deep.md), dell'Operazione [Red Winter](../Magenta/alesdreams.md) e di vari criminali desiderosi di impossessarsene.
-
-[SamFollSF](../Remix/samfollsf.md) sà che OpsG è in possesso di una [Chiave Quadridimensionale](../Remix/tool.md), ma non sà che quest'ultima è a conoscenza del fatto che [SamFollSF](../Remix/samfollsf.md) ha una [Forbice Copypasta](../Remix/tool.md). Viceversa OpsG non sà che l'altro è al corrente della sua [Chiave Quadridimensionale](../Remix/tool.md). Insomma un casino, e sicuramente qualcuno c'è dietro a tutta questa storia di informazioni trapelate. Tuttavia, questo non significa che i due siano in buoni rapporti. Al contrario, si odiano profondamente, e se avessero l’opportunità di eliminarsi a vicenda in maniera controllata, non esiterebbero a farlo, ma approdondirò il perché di questa storia nella carta di [SamFollSF](../Remix/samfollsf.md).
+[Ales Dreams](../Magenta/alesdreams.md) non riserverà alcuna clemenza verso [SamFollSF](../Remix/samfollsf.md) e OpsGiuly. Scaraventati nella stessa cella, i due intrecceranno i propri destini pianificando insieme un'evasione anche grazie all’aiuto di [Angy](../Giallo/angy.md), animati dall'ambizione non solo di fuggire dalle grinfie della Web Intelligence, ma di uscirne paradossalmente più ricchi, ottenendo una [Chiave](../Remix/tool.md), una [Forbice](../Remix/tool.md) e una [Bussola](../Remix/tool.md) a testa. I due criminali riusciranno nell'impresa da vincitori, oppure si ritroveranno a dover lottare l'uno contro l'altro come dei perdenti? La risposta è nel Volume IV: RED WINTER (Seconda Trilogia)
 
 ## Colore
 
@@ -27,6 +25,5 @@ Il Grigio Topo richiama il colore del manto dei roditori, ma è spesso usato nel
 - Ha un animale da compagnia, un piccolo orsacchiotto di nome "Biscottino".
 - Nelle impostazioni dei suoi social ha rimosso ogni forma di conferma di visualizzazione, è praticamente un fantasma, non appare mai fisicamente nelle ChatRoom. (Un giorno approfondirò meglio questo punto).
 - Sui suoi stivali ci sono due scritte che compongono la parola "Folloverse"
-- OpsGiuly è l'Agent di Giulia Genovese.
 
-# Versione Mazzo 1.0
+# Volume IV: RED WINTER

@@ -1,13 +1,7 @@
-# Mazzo 1.0.3 Disponibile Ora!
+# Il Fumetto è in sviluppo!
 
-![1.0.3](eg/1.0.3.jpg)
+La storia CMYK5 diventerà un fumetto diviso in undici volumi. Grazie alla possibilità offerta dallo studio Janara, SamFollSF e gli altri personaggi delle carte avranno finalmente un'avventura nel tragicomico mondo del WebVerse!
 
-Il Mazzo 1.0.3 è ora disponibile! Scopri le carte Ciano e Nere di [Anya](Ciano/stefany.md), [Zw3ih_nd3r](Nero/Zw3ih_nd3r.md) e [Maybe Bless](Nero/maybebless.md)
+![hotride](eg/TF/hotrideteaser.jpg)
 
-Spie, glitch, LLM, compravendita illegale di [Web Crystals](Remix/crystal.md) e tanto altro è presente in queste tre nuove carte del [Mazzo Ciano](Ciano/carteciano.md) e [Mazzo Nero](cartener.md).
-
-# Novità: I Diamanti
-
-![1.0.3](eg/1.0.3%20Parte%202.jpg)
-
-Pensavate che i [Web Crystals](Remix/crystal.md) avessero qualcosa da invidiare ai [Metalli](Remix/metal.md)? Vi sbagliate di grosso, i possessori di [Diamanti](Remix/crystal.md) godono di un potere che solo il [Platino](Remix/metal.md) può offrire in alternativa. [Solisnocitx](Magenta/solisnoctix.md) è l'unica posseditrice di un [Diamante](Remix/crystal.md) attualmente presente nel mazzo 1.0.3.
+Il primo volume si chiamerà "HOT RIDE", e vedrà come protagonisti [SamFollSF](Remix/samfollsf.md) e [IlPanettone](Magenta/ilpanettone.md) in una pericolosissima scalata verso le classi sociali più nobili del [Surface Web](Remix/deep.md). Quando si vola a quote sempre più alte le scelte sono due: precipitare o continuare il viaggio, a qualunque costo.

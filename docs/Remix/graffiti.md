@@ -25,5 +25,3 @@ Questa carta ha la particolarità di avere l'illustrazione in orizzontale.
 - Robe
 - OTDS
 - Qui e là sticker della Circumflegrea, che potete trovare sul mio [Instagram](https://www.instagram.com/samfoll.design?igsh=enB6NHZiMWt1bnl6)
-
-# Versione Mazzo 1.0

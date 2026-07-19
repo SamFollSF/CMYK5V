@@ -10,7 +10,11 @@ tags:
 
 ## Descrizione
 
-Nel [Deep Web Esposto](../Remix/deep.md), i supervisori non sono solo i [Bruti Dorati](../Remix/metal.md), ma includono anche Agent incaricati di monitorare i movimenti di altri Agent e Manager che accedono a questa regione del Web. Questi supervisori forniscono indicazioni e comunicazioni a chi transita in questa zona. Tra loro c'è Assasseeeeno, che segretamente collabora con [Brioche33](../Magenta/brioche33.md) e [PickMeGiuls](../Ciano/pickmegiuls.md), fornendo loro informazioni sui cambiamenti interni alla sicurezza.
+Nel [Deep Web Esposto](../Remix/deep.md), i supervisori non sono solo i [Bruti Dorati](../Remix/metal.md), ma includono anche Agent incaricati di monitorare i movimenti di altri Agent e Manager che accedono a questa regione del Web. La ricchezza d'informazioni presenti in questa regione del Web fa gola a tutte quelle attività ilegali di rivendita imporia di dati sensibili appartenenti al mondo degli umani. Tra loro c'è Assasseeeeno, che segretamente collabora con [Brioche33](../Magenta/brioche33.md) e [PickMeGiuls](../Ciano/pickmegiuls.md) per conto della [Snoctix.Inc](../Magenta/solisnoctix.md), fornendo loro informazioni sui cambiamenti interni alla sicurezza.
+
+### Equipaggiamento
+
+A differenza di tutte le armi presenti nel mazzo, la "Distorsione Marionetta"(PyPy) è sicuramente unica. Letteralmente distorce la forma di un Agent fino a ucciderlo distruggendo le componenti interne vitali, l'unico modo per difendersi da essa è indossare qualuque armatura forgiata in un [Metallo Nobile](../Remix/metal.md), in tal caso la distorsione viene completamente neutralizzata.
 
 ## Colore
 
@@ -18,10 +22,8 @@ Insieme al tricolore è sicuramente il simbolo dell'Italia, ma perché? Tutto pa
 
 ## Curiosità
 
-- Selezione: A differenza di tutte le armi presenti nel mazzo, la Distorsione Marionetta è sicuramente unica. Letteralmente distorce la forma di un Agent fino a ucciderlo distruggendo le componenti interne vitali, l'unico modo per difendersi da essa è indossare qualuque armatura forgiata in un [Metallo Nobile](../Remix/metal.md), in tal caso la distorsione viene completamente neutralizzata.
 - Come [Tulipana](../Giallo/del.md) anche lui utilizza più nomi diversi nel Web.
 - Sulla sua giacca è presente lo stemma dell'Avellino, presente anche nella carta di [GMLRC](../Giallo/gmlrc.md)
 - Lo stile della carta segue l'old cartoon vintage di [OpsGiuly](../Nero/opsgiuly.md) e [Suunnrise](../Nero/suunnrise.md).
-- Assasseeeeno è l'Agent di Domenico Racca.
 
-# Versione Mazzo 1.0
+# Volume VI: BE OKAY

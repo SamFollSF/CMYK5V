@@ -29,5 +29,3 @@ Con lo strumento Penna, creare forme anche molto stravaganti è semplicissimo: o
 ![zoom](../eg/5/zoom.jpg)
 
 Lo Zoom è uno strumento indispensabile, utile sia per intervenire su piccoli dettagli della tavola da disegno che per osservare il lavoro nella sua interezza.
-
-# Versione Mazzo 1.0

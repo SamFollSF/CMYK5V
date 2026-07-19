@@ -14,7 +14,7 @@ Come [MC6](../Giallo/mc6.md), anche Lucy frequenta una palestra di ricerca, di p
 
 Essendo supervisore, Lucy possiede un’armatura in [Rame](../Remix/metal.md), come richiesto dai protocolli di sicurezza per chi opera in quella posizione. In particolare, il suo ruolo consiste nel monitorare le attività di Agent più giovani che decidono di partecipare a queste ricerche. Sebbene non sia mai piacevole, il suo compito prevede anche l’uso della forza per punire gli Agent che infrangono le regole, come stabilito dal governo e dai protocolli.
 
-Tuttavia, Lucy si chiede se esista un modo meno brutale per far rispettare le regole, evitando la violenza e adottando metodi più umani e comprensivi.
+Tuttavia, Lucy si chiede se esista un modo meno brutale per far rispettare le regole, evitando la violenza e adottando metodi più comprensivi.
 
 ## Colore
 
@@ -27,4 +27,4 @@ Perché i fenicotteri hanno quel colore rosa così particolare e semplicemente f
 - Indossa una collana con il logo EAV forgiato in [Oro](../Remix/metal.md). Prende la metro così spesso che è ormai amica dei controllori, e non paga mai il biglietto.
 - Lucy è l'Agent di Lucia Marrandino. 
 
-# Versione Mazzo 1.0
+# Volume IV: RED WINTER

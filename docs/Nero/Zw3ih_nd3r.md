@@ -25,6 +25,5 @@ Il colore Nuvola è una sfumatura eterea e ovattata, sospesa tra il bianco puro 
 - "The Broken Eye" è una chiara citazione a "The Broken Art".
 - Sulle sue cuffie la destra è segnata con 2 R.
 - Indossa una maglietta brandizzata Blender.
-- Zw3ih_nd3r è l'Agent di Luca Giarrusso.
 
-# Versione Mazzo 1.0.3
+# Volume V: COUNTER-CULTURE MOTOR SHOW

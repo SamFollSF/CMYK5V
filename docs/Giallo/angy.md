@@ -10,7 +10,9 @@ tags:
 
 ## Descrizione
 
-Da semplice impiegata negli uffici della Web Intelligence a vicedirigente del padiglione Ricercati e Dispersi. Conosceva [SamFollSF](../Remix/samfollsf.md) da molto tempo e, nonostante le loro idee opposte sulla legalità e la vita in generale (lui un criminale, lei un'investigatrice governativa) erano comunque amici stretti. Tuttavia, da quando [SamFollSF](../Remix/samfollsf.md) è sparito dai radar nel 2020, Angy ha formato una squadra per rintracciarlo, temendo che potesse mettersi in guai seri. Più volte ha dichiarato alla stampa per non avere problemi: "Smentisco le voci che vedonome e [SamFollSF](../Remix/samfollsf.md) come amici. Egli rappresenta una seria minaccia per la sicurezza del Blocco 87 e potenzialmente anche per quella di altri ancora. Faremo del nostro meglio per catturarlo e punirlo".
+Da semplice impiegata negli uffici della Web Intelligence a vicedirigente del padiglione Ricercati e Dispersi. Conosceva [SamFollSF](../Remix/samfollsf.md) da molto tempo e, nonostante le loro idee opposte sulla vita in generale (lui un criminale, lei un'investigatrice governativa) erano comunque amici stretti. Tuttavia, da quando [SamFollSF](../Remix/samfollsf.md) è sparito dai radar nel 2020, Angy ha formato una squadra per rintracciarlo, temendo che potesse mettersi in guai seri. Più volte ha dichiarato alla stampa per non avere problemi: "Smentisco le voci che vedonome e [SamFollSF](../Remix/samfollsf.md) come amici. Egli rappresenta una seria minaccia per la sicurezza del Network 87 e potenzialmente anche per quella di altri ancora. Faremo del nostro meglio per catturarlo e punirlo".
+
+Angy rappresenta la perfetta chiave di lettura per comprendere l’ipocrisia e l’incompetenza degli Organi Governativi del WebVerse. Attraverso la legittimazione del caos per favorire i propri interessi, i Sindaci dei Network e i Manager Supremi hanno trasformato il Surface Web in una realtà pericolosa e frammentata. La nostra protagonista non vestirà certamente i panni della salvatrice di fronte al destino inesorabile di questa città, anche se è quello che ha sempre sognato. La voce di Angy sarà più forte che mai nel Volume III: FREAK-LEADER (Prima Trilogia).
 
 ## Colore
 
@@ -22,6 +24,5 @@ Come il giallo e il marrone, è un colore abbastanza controverso. Comunicando en
 - Indossa come orecchino un Acchiappasogni.
 - Come [Dx4vid](../Magenta/dx4vid.md) anch'ella ha un animale domestico, un Barboncino di nome Cloe.
 - In qualità di vicedirigente gli è consentito di portare con sè armi da fuoco in giro per il [Surface Web](../Remix/deep.md).
-- Angy è il Manager di Angela Amirata.
 
 # Versione Mazzo 1.0

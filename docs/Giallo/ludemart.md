@@ -22,7 +22,6 @@ Il Kiwi è un colore forte e vitaminico, capace di regalare brio ovunque lo si u
 - Indossa una felpa con la scritta dietro la schiena Fuck YOU con il logo della Circumvesuviana, bellissima vorrei ricrearla anche nella realtà.
 - Prima della sua carriera da writer pubblicamente riconosciuto, ha scontato un anno di prigione per aver partecipato a una rissa di massa tra tifoserie nel Web. Qui non si tifano le nostre squadre, pur conoscendone l’esistenza, ma si supportano club inediti di questa dimensione. Forse un giorno approfondirò l’argomento.
 - Tiene nella tasca posteriore una scaglia d'[Oro](../Remix/metal.md) clonata con una [Forbice Copypasta](../Remix/tool.md) e quindi utilizzabile una sola volta nei casi di pericolo.
-- Ha sulla testa un aureola. Quando sei il cosplayer di Gesù non può mancare questo dettaglio.
-- Ludemart è l'Agent di Luigi De Martino.
+- Ha sulla testa un aureola.
 
 # Versione Mazzo 1.0

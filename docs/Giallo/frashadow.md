@@ -12,7 +12,7 @@ tags:
 
 Mago di professione, Frashadow intrattiene spettacoli di magia in tutto il [Surface Web](../Remix/deep.md). Grazie a questo lavoro ha conosciuto persone di ogni tipo, anche boss mafiosi che organizzavano eventi privati.
 
-Ma quindi, Frashadow è davvero in grado di fare magie inspiegabili? Beh, no. Mi dispiace, ma anche in un mondo completamente digitale, la magia non esiste. Il suo segreto, tuttavia, sta nella creazione dei suoi oggetti di scena, che realizza personalmente: li progetta e li stampa in 3D utilizzando PLA.
+Frashadow è davvero in grado di fare magie inspiegabili? Beh, no. Mi dispiace, ma anche in un mondo completamente digitale, la magia non esiste. Il suo segreto, tuttavia, sta nella creazione dei suoi oggetti di scena, che realizza personalmente: li progetta e li stampa in 3D utilizzando [PLA](../Ciano/marwis.md).
 
 ## Colore
 
@@ -25,6 +25,5 @@ Un giallo intenso e brillante con riflessi leggermente dorati, ispirato alla pur
 - Nel tempo libero pratica Basket. Ha persino stampato un campo interno in PLA!
 - Può vantare di avere una foto con l'Agent di LeBron James.
 - La combinazione dei capi di abbigliamento CMYK è casuale, ha infatti giacche, pantaloni ecc. di tutti e 4 i colori. Ogni giorno indossa una combinazione unica.
-- Frashadow è l'Agent di Francesco Emanuele Altobelli.
 
-# Versione Mazzo 1.0
+# Volume V: COUNTER-CULTURE MOTOR SHOW

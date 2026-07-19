@@ -12,6 +12,8 @@ tags:
 
 Sawako, dal rifacimento alla cultura giapponese, è sulle tracce di [BlaseJewel51](../Remix/over.md) da ormai svariati anni, scomparso in circostanze misteriose nel 2015, a seguito della sua evasione dalla prigione del blocco 742, il [DeadLocked](../Remix/sa742sa.md). Ella sà che in questa faccenda centra [SamFollSF](../Remix/samfollsf.md), in quanto anche quest'ultimo evadette con lui. Sawako lavora per [Sa742Sa](../Remix/sa742sa.md) in qualità di spia e investigatrice per reintracciare gli evasori dal suo carcere. Attualmente il suo obiettivo è riuscire a mettersi in contatto con [SamFollSF](../Remix/samfollsf.md) per saperne di più su questa faccenda.
 
+La storia di Sawako permetterà di esplorare cosa si cela dietro la storia del WebVerse rispondendo alle domande che non trovano risposte negli altri volumi. Dove sono i fondatori del Web? Vengono citati più volte ma nessuno sà dove siano, acquisendo un identità mitologica più che storica. Il Diamante Rosso esiste davvero? Nessuno sà se esiste davvero. Perché gli strumenti dei fondatori sono malfunzionanti di base?  Ma la domanda delle domande: Cosa si cela sotto il fondale del DarkWeb? Niente? Impossibile, c’è sempre qualcosa. Per saziare la vostra sete di conoscenza il Volume VIII: BIG LIE (Terza Trilogia) fa al caso vostro! 
+
 È stata un [Angelo Argentato](../Remix/metal.md) per svariati anni, e per via della sua longevità in questo settore gli è stato dato un permesso speciale per portare con sè sempre le [Ali](../Remix/metal.md) e in generale tutta la sua [Attrezzatura argentata](../Remix/metal.md) in giro per il [Surface Web](../Remix/deep.md).
 
 ## Colore
@@ -25,6 +27,5 @@ O lo ami o lo odi: il fucsia non conosce mezze misure. Prende il suo nome dalla 
 - Lo sfondo della carta si rifà al [Frutiger Aero](../Remix/frutiger.md).
 - Sawako parla perfettamente Inglese, Giapponese, Francese e Russo.
 - Ha sulla sua testa una piccola paperella, ovvero il suo avatar su Playstation Network.
-- Sawako è il Manager di Tiziana Follera.
 
-# Versione Mazzo 1.0
+# Volume VIII: BIG LIE

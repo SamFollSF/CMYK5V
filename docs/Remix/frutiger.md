@@ -16,6 +16,4 @@ Una volta il Web era pieno di questa vegetazione, lunghi prati e laghi armoniosi
 
 Oggi del Frutiger Aero rimangono tracce nostalgiche e influenze indirette nel design contemporaneo. Sebbene superato dal minimalismo, il suo spirito ottimista e accogliente sopravvive, evocando una visione luminosa e naturale della tecnologia. Esso verrà ricordato come un'epoca di equilibrio tra innovazione e bellezza, ispirando ancora oggi progetti che giocano sulla nostalgia o sul retrofuturismo.
 
-Con il passare degli anni, tutta l'acqua si è raccolta in grandi ristagni, ma l'assenza di vegetazione e il colore scuro delle acque riflettono chiaramente come l'ottimismo nel Web sia ormai svanito.
-
-# Versione Mazzo 1.0
+Con il passare degli anni, tutta l'acqua si è raccolta in grandi ristagni, ma l'assenza di vegetazione e il colore scuro delle acque riflettono chiaramente come l'ottimismo nel Web sia ormai svanito. Nei fondali è possibile trovare oggetti di ogni tipo, e anche una speciale versione del Rame Ossidato.

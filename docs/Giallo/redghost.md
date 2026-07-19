@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-Un appassionato collezionista di trofei che simboleggiano i quattro metalli nobili del WebVerse: Rame, Argento, Oro e Platino. Tuttavia, questi trofei non sono composti interamente dai metalli che rappresentano. Ad esempio, il trofeo di platino, come gli altri, contiene solo un 10% di rame, mentre il resto è costituito da metalli meno pregiati. Quindi sì, purtroppo i trofei di Platino contengono lo 0% di questo metallo e così via.
+Un appassionato collezionista di trofei che simboleggiano i quattro [Metalli Nobili](../Giallo/redghost.md) del WebVerse: [Rame](../Giallo/redghost.md), [Argento](../Giallo/redghost.md), [Oro](../Giallo/redghost.md) e [Platino](../Giallo/redghost.md). Tuttavia, questi trofei non sono composti interamente dai metalli che rappresentano. Ad esempio, il trofeo di [Platino](../Giallo/redghost.md), come gli altri, contiene solo un 10% di [Rame](../Giallo/redghost.md), mentre il resto è costituito da [metalli meno pregiati](../Magenta/shadowelite.md). Quindi sì, purtroppo i trofei di[Platino](../Giallo/redghost.md) contengono lo 0% di questo metallo e così via.
 
 Inizialmente, era a caccia di trofei insieme a [SamFollSF](../Remix/samfollsf.md), ma il loro rapporto si è incrinato quando quest’ultimo ha deciso di abbandonare il progetto, considerandolo una patetica perdita di tempo.
 
@@ -24,6 +24,5 @@ Il nome deriva dal persiano "saqirlat", o dal latino astacus, "granchio". Ma nel
 - Sul suo vestito è ricamata una lettera "F" in citazione ad Alphabet Lore di Mike Salcedo.
 - Sulla borsetta ha sopra il simbolo del Dio Anubis della mitologia egiziana.
 - La sua bocca è una R allungata.
-- Red Ghost è l'Agent di Gaetano Cangiano.
 
-# Versione Mazzo 1.0
+# Volume I: HOT RIDE
