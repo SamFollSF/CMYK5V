@@ -36,16 +36,16 @@ Bene, ora non ti resta che scoprire tutte e 100 le carte! Usa il navigatore qui 
 
 ## Supreme
 ![divinità](eg/OP/divinità.jpg)
-La sublimazione della differente natura strategica fra [Metalli Nobili](Magenta/shadowelite.md) e [Web Crystal](Remix/crystal.md). Nessuno sà cosa questi minerali siano capaci di fare, ma queste due sono le ipotesi più accreditate.
+La sublimazione della differente natura strategica fra [Metalli Nobili](Magenta/shadowelite.md) e [Web Crystal](Remix/crystal.md). Nessuno sa cosa questi minerali siano capaci di fare, ma queste due sono le ipotesi più accreditate.
 
 - [Platino](Remix/metal.md) con purezza al 100%: Tutti i metalli seguono la logica della creazione, della robustezza e dell'approccio brutale. La purezza al 100% garantisce il pieno potere a creare ogni oggetto che sia mai esistito nel WebVerse, anche il [Platino](Remix/metal.md) stesso, generando una perpetua crescita di potenza di calcolo, una mole di dati sempre più insostenibile che lascia spazio ad un solo avversario.
 
 - [Diamante Oscuro](Remix/crystal.md): Se la logica dei [Metalli Nobili](Magenta/shadowelite.md) si basa sulla forza, i [Web Crystal](Remix/crystal.md) seguono una strategia più elegante, ottimizzata e astuta. Non cercano di vincere sulla mera forza, ma di trovare delle falle che permettano loro di essere ugualemente efficaci. Il [Diamante Oscuro](Remix/crystal.md) in risposta all'immensa capacità di creazione della controparte metallica, esso sceglie di non creare qualsiasi cosa, ma di modificare qualsiasi cosa, ogni legge della fisica, ogni funzionamento dell'ordine del potere magari rendendo il Key Colour forte quanto se stesso, oppure disattivare i collegamenti elettrici di tutto l'Iceberg del Web.
 
-Il quadro è chiaro: L'[Ordine Metallico](Remix/metal.md) rappresenta la capicità del computer di creare (NEW), L'[Ordine Cristallino](Remix/crystal.md) incarna invece la possibilità di modificare (EDIT). Uno scontro a questi livelli lo vince non chi è più forte, ma chi è più creativo, chi ha più fantasia.
+Il quadro è chiaro: L'[Ordine Metallico](Remix/metal.md) rappresenta la capacità del computer di creare (NEW), L'[Ordine Cristallino](Remix/crystal.md) incarna invece la possibilità di modificare (EDIT). Uno scontro a questi livelli lo vince non chi è più forte, ma chi è più creativo, chi ha più fantasia.
 ## Élite
 ![élite](eg/OP/élite.jpg)
-Qui la massiccia densità di elaborazione e colcolo dei dati rende questi minerali biomeccanicamente insostenibili per gli Agent e Manager, anche se esperimenti che sono costati la vita a cavie da laboratorio hanno permesso di scoprire cosa si celasse dietro il loro potere.
+La massiccia densità di elaborazione e calcolo dei dati rende questi minerali biomeccanicamente insostenibili per gli Agent e Manager, anche se esperimenti che sono costati la vita a cavie da laboratorio hanno permesso di scoprire cosa si celasse dietro il loro potere.
 
 - [Platino](Remix/metal.md) con purezza all'80%: Oltre a creare oggetti che sfruttano i materiali già esistenti, il [Platino](Remix/metal.md) a questa purezza permette anche la trasformazione degli elementi che compongono la scena, riuscendo non solo a ricreare tutti i [Metalli Comuni](Magenta/shadowelite.md), ma anche quelli [Nobili](Remix/metal.md) fino all'[Oro](Remix/metal.md).
 
@@ -53,10 +53,10 @@ Qui la massiccia densità di elaborazione e colcolo dei dati rende questi minera
 
 ## Overlords
 ![overlords](eg/OP/overlords.jpg)
-Il terzo gradino del podio è popolato dagli Overlord, Manager potentissimi che corrispondo una seria minaccia contro qualunque abitante del Web. Per l'ordine metallico troviamo il [Platino](Remix/metal.md) con il potere di creare oggetti istantaneamente e usarli come arma ed essi nella manica sfruttando il materiale presente nell'ambiente circostante. Il [Diamante Azzurro](Remix/crystal.md) permette invece di modificare qualsiasi poligono nello spazio circostante, modellando e trasformando in cristallo l'ambiente con i relativi oggetti.
+Il terzo gradino del podio è popolato dagli Overlord, Manager potentissimi che corrispondo una seria minaccia contro qualunque abitante del Web. Per l'ordine metallico troviamo il [Platino](Remix/metal.md) con il potere di creare oggetti istantaneamente e usarli come arma o assi nella manica sfruttando il materiale presente nell'ambiente circostante. Il [Diamante Azzurro](Remix/crystal.md) permette invece di modificare qualsiasi poligono nello spazio circostante, modellando e trasformando in cristallo l'ambiente con i relativi oggetti.
 ## Brute Bandwidth Force
 ![tf](eg/OP/tf.jpg)
-La Bandwidth Force è la classe più prossima ai livelli più alti possibili, e il loro potenziale non è da meno. L'[Oro](Remix/metal.md) dalla sponda metallica offre una forza bruta in grado di disintegrare qualsiasi Agent in uno scontro corpo a corpo. Il [Rubino](Remix/crystal.md) invece offre una velocità di trasferimento dati così veloce da poter controllare i corpi dei propri nemici grazie al download instantaneo di un malware se trafitti.
+La Bandwidth Force è la classe più prossima ai livelli più alti possibili, e il loro potenziale non è da meno. L'[Oro](Remix/metal.md) dalla sponda metallica offre una forza bruta in grado di disintegrare qualsiasi Agent in uno scontro corpo a corpo. Il [Rubino](Remix/crystal.md) invece offre una velocità di trasferimento dati così veloce da poter controllare i corpi dei propri nemici grazie al download istantaneo di un malware se trafitti.
 ## Sky Force
 ![cf](eg/OP/cf.jpg)
 La Sky Force è formata dall'[Argento](Remix/metal.md) e dallo [Zaffiro](Remix/crystal.md). Qui gli scontri si combattono a mezz'aria, volando letteralmente oppure usando un [Cursore di Zaffiro](Remix/crystal.md).
@@ -68,10 +68,10 @@ Da questo gradino si inizia a fare sul serio, con la biforcazione del potere, da
 In questo gradino troviamo Agent e Manager criminali in possesso di [Strumenti dei Fondatori](Remix/tool.md): Chiavi, Forbici e Bussole. Possedere uno di questi strumenti è considerato illegale, vista la loro straordinaria potenza. Con essi è possibile teletrasportarsi, duplicare oggetti o compiere scelte sempre corrette, grazie all’immensa capacità di calcolo che offrono. 
 ## Web Crystal
 ![wc](eg/OP/wc.jpg)
-Nella categoria dei cittadini comuni del web la classe più altolocata è quella in possesso dei [Web Crystals](Remix/crystal.md) minori, ciascuno con il proprio beneficio particolare.
+Nella categoria dei cittadini comuni del Web la classe più altolocata è quella in possesso dei [Web Crystals](Remix/crystal.md) minori, ciascuno con il proprio beneficio particolare.
 ## Key Colour
 ![kc](eg/OP/kc.jpg)
-Il Nero, invece, si trova su un livello superiore. Al di sopra della sintesi CMY, il colore mancante. Questo colore è non segue alcuna regola di bilanciamento: è indistintamente il più potente, ma non rappresenta ancora minimamente il massimo dei poteri.
+Il Nero, invece, si trova su un livello superiore. Al di sopra della sintesi CMY, il colore mancante. Questo colore non segue alcuna regola di bilanciamento: è indistintamente il più potente, ma non rappresenta ancora minimamente il massimo dei poteri.
 ## CMY
 ![cmy](eg/OP/cmy.jpg)
 Sul gradino più basso troviamo la sintesi sottrattiva dei colori. Ogni Agent o Manager ha un proprio colore, che rappresenta la sua linfa vitale. Tuttavia, i colori interagiscono fra loro con bonus e malus, in modo simile al gioco "Sasso, Carta, Forbici": il Ciano contrasta il Magenta, ma subisce il Giallo; il Magenta vince sul Giallo, ma perde con il Ciano; e infine, il Giallo prevale sul Ciano, ma è battuto dal Magenta. 
