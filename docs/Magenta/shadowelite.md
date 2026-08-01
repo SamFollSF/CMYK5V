@@ -13,8 +13,8 @@ tags:
 Il lavoro di Shadow Èlite consiste nell'estrarre dalle miniere i metalli comuni del Web: Ferro, Alluminio, Mercurio e Titanio. A differenza dei [Metalli Nobili](../Remix/metal.md), questi non conferiscono poteri di uguale potere distruttivo, ma possono arrivarci e come nell'utilizzo difensivo. Lastre di Titanio possono completamente annullare il potere del [Platino](../Remix/metal.md), ovviamente a patto di sapersi difendere da uno dei minerali più potenti del WebVerse. Il Titanio richiede un'abilità in combattimento eccellente, nervi d'acciaio e sangue freddo per riuscire a difendersi egregiamente. Tuttavia quando il [Platino](../Remix/metal.md) raggiunge la purezza prossima all'80% allora anche quest'ultimo metallo deve inginocchiarsi, solo il [Diamante Rosa](../Remix/crystal.md) può fronteggiarlo.
 
 In particolar modo:
-- Il Ferro neutralizza egregiamente il [Rame](../Remix/metal.md).
-- L'Alluminio neutralizza egregiamente l'[Argento](../Remix/metal.md).
+- LAlluminio neutralizza egregiamente il [Rame](../Remix/metal.md).
+- Il Ferro neutralizza egregiamente l'[Argento](../Remix/metal.md).
 - Il Mercurio neutralizza egregiamente l'[Oro](../Remix/metal.md).
 
 ## Colore

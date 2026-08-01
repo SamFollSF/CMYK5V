@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-Un appassionato collezionista di trofei che simboleggiano i quattro [Metalli Nobili](../Giallo/redghost.md) del WebVerse: [Rame](../Giallo/redghost.md), [Argento](../Giallo/redghost.md), [Oro](../Giallo/redghost.md) e [Platino](../Giallo/redghost.md). Tuttavia, questi trofei non sono composti interamente dai metalli che rappresentano. Ad esempio, il trofeo di [Platino](../Giallo/redghost.md), come gli altri, contiene solo un 10% di [Rame](../Giallo/redghost.md), mentre il resto è costituito da [metalli meno pregiati](../Magenta/shadowelite.md). Quindi sì, purtroppo i trofei di[Platino](../Giallo/redghost.md) contengono lo 0% di questo metallo e così via.
+Un appassionato collezionista di trofei videoludici, i quali simboleggiano i quattro [Metalli Nobili](../Giallo/redghost.md) del WebVerse: [Rame](../Giallo/redghost.md), [Argento](../Giallo/redghost.md), [Oro](../Giallo/redghost.md) e [Platino](../Giallo/redghost.md). Tuttavia, questi trofei non sono composti interamente dai metalli che rappresentano. Ad esempio, il trofeo di [Platino](../Giallo/redghost.md), come gli altri, contiene solo [metalli meno pregiati](../Magenta/shadowelite.md). Quindi sì, purtroppo i trofei di[Platino](../Giallo/redghost.md) contengono lo 0% di questo metallo e così via.
 
 Inizialmente, era a caccia di trofei insieme a [SamFollSF](../Remix/samfollsf.md), ma il loro rapporto si è incrinato quando quest’ultimo ha deciso di abbandonare il progetto, considerandolo una patetica perdita di tempo.
 

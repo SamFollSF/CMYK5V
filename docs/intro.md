@@ -33,54 +33,45 @@ Bene, ora non ti resta che scoprire tutte e 100 le carte! Usa il navigatore qui 
 - [Mazzo R3M1X](carterem.md)
 
 # Ordine del Potere
-![ordinedelpotere](eg/ordinedelpotere2.jpg)
 
-Come si classifica il potere del WebVerse?
+## Supreme
+![divinità](eg/OP/divinità.jpg)
+La sublimazione della differente natura strategica fra [Metalli Nobili](Magenta/shadowelite.md) e [Web Crystal](Remix/crystal.md). Nessuno sà cosa questi minerali siano capaci di fare, ma queste due sono le ipotesi più accreditate.
 
-## Agent e Manager Base
+- [Platino](Remix/metal.md) con purezza al 100%: Tutti i metalli seguono la logica della creazione, della robustezza e dell'approccio brutale. La purezza al 100% garantisce il pieno potere a creare ogni oggetto che sia mai esistito nel WebVerse, anche il [Platino](Remix/metal.md) stesso, generando una perpetua crescita di potenza di calcolo, una mole di dati sempre più insostenibile che lascia spazio ad un solo avversario.
 
-Sul gradino più basso troviamo la sintesi sottrattiva dei colori. Ogni Agent o Manager ha un proprio colore, che rappresenta la sua linfa vitale. Tuttavia, i colori interagiscono fra loro con bonus e malus, in modo simile al gioco "Sasso, Carta, Forbici": il Ciano contrasta il Magenta, ma subisce il Giallo; il Magenta vince sul Giallo, ma perde con il Ciano; e infine, il Giallo prevale sul Ciano, ma è battuto dal Magenta. 
+- [Diamante Oscuro](Remix/crystal.md): Se la logica dei [Metalli Nobili](Magenta/shadowelite.md) si basa sulla forza, i [Web Crystal](Remix/crystal.md) seguono una strategia più elegante, ottimizzata e astuta. Non cercano di vincere sulla mera forza, ma di trovare delle falle che permettano loro di essere ugualemente efficaci. Il [Diamante Oscuro](Remix/crystal.md) in risposta all'immensa capacità di creazione della controparte metallica, esso sceglie di non creare qualsiasi cosa, ma di modificare qualsiasi cosa, ogni legge della fisica, ogni funzionamento dell'ordine del potere magari rendendo il Key Colour forte quanto se stesso, oppure disattivare i collegamenti elettrici di tutto l'Iceberg del Web.
 
-Il Nero, invece, si trova su un livello superiore. Al di sopra della sintesi CMY, il colore mancante. Questo colore è non segue alcuna regola di bilanciamento: è indistintamente il più potente, ma non rappresenta ancora minimamente il massimo dei poteri.
+Il quadro è chiaro: L'[Ordine Metallico](Remix/metal.md) rappresenta la capicità del computer di creare (NEW), L'[Ordine Cristallino](Remix/crystal.md) incarna invece la possibilità di modificare (EDIT). Uno scontro a questi livelli lo vince non chi è più forte, ma chi è più creativo, chi ha più fantasia.
+## Élite
+![élite](eg/OP/élite.jpg)
+Qui la massiccia densità di elaborazione e colcolo dei dati rende questi minerali biomeccanicamente insostenibili per gli Agent e Manager, anche se esperimenti che sono costati la vita a cavie da laboratorio hanno permesso di scoprire cosa si celasse dietro il loro potere.
 
-Nella categoria dei cittadini comuni del web la classe più altolocata è quella in possesso dei [Web Crystals](Remix/crystal.md) minori, ciascuno con il proprio beneficio particolare. Il più potente in questa categoria è il [Rubino](Remix/crystal.md), mentre gli altri cristalli lasciano a discrezione personale decidere quale sia il più forte. Tuttavia, il cristallo più potente è il [Diamante](Remix/crystal.md), ma lo vedremo dopo con calma.
+- [Platino](Remix/metal.md) con purezza all'80%: Oltre a creare oggetti che sfruttano i materiali già esistenti, il [Platino](Remix/metal.md) a questa purezza permette anche la trasformazione degli elementi che compongono la scena, riuscendo non solo a ricreare tutti i [Metalli Comuni](Magenta/shadowelite.md), ma anche quelli [Nobili](Remix/metal.md) fino all'[Oro](Remix/metal.md).
 
-## Borderline
-
-In questo gradino troviamo Agent e Manager criminali in possesso di [Strumenti dei Fondatori](Remix/tool.md): Chiavi, Forbici e Bussole. Possedere uno di questi strumenti è considerato illegale, vista la loro straordinaria potenza. Con essi è possibile teletrasportarsi, duplicare oggetti o compiere scelte sempre corrette, grazie all’immensa capacità di calcolo che offrono. 
-
-## Guerrieri
-
-Gli Agent e Manager in possesso di [Metalli Nobili](Remix/metal.md) vengono considerati guerrieri perchè nel [Surface Web](Remix/deep.md) è ammesso avere questi metalli solo su specifica autorizzazione del governo con scopo di pubblico ufficiale e forza dell'ordine. Ma sono in molti ad avere questi minerali senza consenso.
-
-Si parte dal [Rame](Remix/metal.md), pessando per l'[Argento](Remix/metal.md) fino ad arrivare all'[Oro](Remix/metal.md). Esistono anche delle loro versioni alternative, come il Rame Ossidato o l'Oro bianco, ma non è oggi il momento di parlarne.
-
-Con i guerreri entriamo nella sfera dei poteri speciali e unici, anche se messi a paragone con le categorie superiori diventano comunque insignificanti.
-
-[SamFollSF](Remix/samfollsf.md) essendo in possesso di [Rame](Remix/metal.md) si trova circa a metà della piramide sociale del WebVerse.
+- [Diamante Rosa](Remix/crystal.md): Non si interviene più sulla modellazione del mondo, ma sulla modellazione del proprio codice sorgente con una conoscenza totale della propria natura informatica. Un [Bruto Dorato](Remix/metal.md) ti attacca? Frysco>Gold_Damage:Off. Stai affogando sott'acqua? GreenRoby05>Underwater_Respiration:On.
 
 ## Overlords
-
-Con gli Overlords accediamo alla biforcazione della vera forza che un Agent o Manager può esprimere. Da una parte troviamo il [Platino](Remix/metal.md) con purezza fino al 70%, il metallo nobile più prezioso del Web, dall'altra il [Diamante Azzurro](Remix/crystal.md), il primo [WebCrystal](Remix/crystal.md) ad essere considerato un degno avversario dei [Metalli Nobili](Remix/metal.md).
-
-Abbiamo visto prima come i [WebCrystal](Remix/crystal.md) comuni siano molto più deboli dei [Metalli Nobili](Remix/metal.md), ma con il [Diamante](Remix/crystal.md) si riscrive completamente la gerarchia. Nemmeno un bruto dorato può fronteggiare con facilità un Manager in possesso di un [Diamante](Remix/crystal.md).
-
-È difficile vedere un Agent nelle vesti di un Overlord, generalmente sono i Manager ad arrivare ad un livello di prestigio simile. Nell'immagine orientativa ho inserito [Wooby](Magenta/wooby.md) per rappresentare un Overlord metallizzato, e [Solisnoctix](Magenta/solisnoctix.md) per rappresentare un Overlord cristallino.
-
-## Élite
-
-L'Èlite nonostante sia in possesso di queste risorse, non può sprigionarne il completo potere. Questo perchè arrivati ad una certa soglia di purezza del [Platino](Remix/metal.md), oltre il 70%, diventa biomeccanicamente insostenibile per un abitante del Web, come se fossero radiazioni fortissime per il corpo umano. Stessa storia si verifica con il [Diamante Rosa](Remix/crystal.md).
-
-Quello che l'Èlite del web sta cercando di fare è trovare un modo per alzare la soglia dove questi minerali diventano fatali, potendo ambire ad un potere mai visto nella storia.
-
-Un esempio di Èlite è [Sa742Sa](Remix/sa742sa.md).
-
-## Divinità
-
-Qui entriamo in un territorio ambiguo, perchè nessuno nella storia ha mai raccontato o studiato cosa possa succedere ad un livello così inconcepibilmente alto. Possedere il 100% di [Platino](Remix/metal.md) per massa corporea o un carato di [Diamante Rosso](Remix/crystal.md) significherebbe diventare l'essere perfetto, ineluttabile, una vera e propria divinità. Vi lascio le opinioni di alcuni Agent e Manager presenti nel mazzo CMYK5.
-
-Per [IlPanettone](Magenta/ilpanettone.md) tutta questa storia è solo una grande speculazione, un modo che hanno trovato gli Overlords per far parlare di sè. Secondo [The Deather](Ciano/thedea.md) invece si potrebbe essere così forti da poter riportare in vita gli abitanti del Web morti anche svariati anni fa. In una intervista [Angy](Giallo/angy.md) ha dichiarato che per lei possedere un [Diamante Rosso](Remix/crystal.md) significherebbe portare alla distruzione totale l'intero WebVerse, e che quindi sarebbe meglio fermarsi con questa follia di domare questi minerali che per natura sono proibiti. Durante un controllo in una miniera di [WebCrystal](Remix/crystal.md), [Lele](Ciano/lele.md) ha fatto questa domanda al suo boss [Solisnoctix](Magenta/solisnoctix.md): per lei potrebbe essere un modo per liberarsi dalla schiavitù degli umani sugli abitanti del Web, magari arrivare in un mondo parallelo dove tutta la crudeltà di questo universo non esiste.
-
-[SamFollSF](Remix/samfollsf.md) non crede a tutte queste storie, per lui c'è qualcosa che non quadra con la realtà del Web. Il potere non può salire all'infinito, si dovrà arrivare ad un punto, e forse qualcosa o qualcuno volutamente sta cercando di sabotare le ricerche per arrivarci. D'altronde, perché i fondatori del Web non sono ancora vivi per raccontarlo? La credenza popolare più diffusa è che siano morti al passaggio dal Web 1.0 a quello 2.0, secondo cui la struttura fisica degli Agent e Manager dell'epoca non sarebbe stata compatibile con un evoluzione architettonica simile. Ma questa versione rimane ancora solo una teoria e niente di confermato.
-
-Disclaimer doveroso: Il mazzo CMYK5 non finisce qui, sarà sempre in continua espansione con nuove carte, quindi ti consiglio di seguirmi su [Instagram](https://www.instagram.com/samfoll.design?igsh=enB6NHZiMWt1bnl6) per rimanere sempre aggiornato o di usare la scheda dedicata [News](blog/index.md) nel sito.
+![overlords](eg/OP/overlords.jpg)
+Il terzo gradino del podio è popolato dagli Overlord, Manager potentissimi che corrispondo una seria minaccia contro qualunque abitante del Web. Per l'ordine metallico troviamo il [Platino](Remix/metal.md) con il potere di creare oggetti istantaneamente e usarli come arma ed essi nella manica sfruttando il materiale presente nell'ambiente circostante. Il [Diamante Azzurro](Remix/crystal.md) permette invece di modificare qualsiasi poligono nello spazio circostante, modellando e trasformando in cristallo l'ambiente con i relativi oggetti.
+## Brute Bandwidth Force
+![tf](eg/OP/tf.jpg)
+La Bandwidth Force è la classe più prossima ai livelli più alti possibili, e il loro potenziale non è da meno. L'[Oro](Remix/metal.md) dalla sponda metallica offre una forza bruta in grado di disintegrare qualsiasi Agent in uno scontro corpo a corpo. Il [Rubino](Remix/crystal.md) invece offre una velocità di trasferimento dati così veloce da poter controllare i corpi dei propri nemici grazie al download instantaneo di un malware se trafitti.
+## Sky Force
+![cf](eg/OP/cf.jpg)
+La Sky Force è formata dall'[Argento](Remix/metal.md) e dallo [Zaffiro](Remix/crystal.md). Qui gli scontri si combattono a mezz'aria, volando letteralmente oppure usando un [Cursore di Zaffiro](Remix/crystal.md).
+## Thunder Force
+![tf2](eg/OP/tf2.jpg)
+Da questo gradino si inizia a fare sul serio, con la biforcazione del potere, da una parte i [Metalli Nobili](Remix/metal.md), dall'altra [Web Crystals](Remix/crystal.md) più potenti. La Thunder Force è composta dal [Rame](Remix/metal.md) e dallo [Smeraldo](Remix/crystal.md), entrambi con proprietà di conduzione elettrica.
+## Borderline
+![borderline](eg/OP/borderline.jpg)
+In questo gradino troviamo Agent e Manager criminali in possesso di [Strumenti dei Fondatori](Remix/tool.md): Chiavi, Forbici e Bussole. Possedere uno di questi strumenti è considerato illegale, vista la loro straordinaria potenza. Con essi è possibile teletrasportarsi, duplicare oggetti o compiere scelte sempre corrette, grazie all’immensa capacità di calcolo che offrono. 
+## Web Crystal
+![wc](eg/OP/wc.jpg)
+Nella categoria dei cittadini comuni del web la classe più altolocata è quella in possesso dei [Web Crystals](Remix/crystal.md) minori, ciascuno con il proprio beneficio particolare.
+## Key Colour
+![kc](eg/OP/kc.jpg)
+Il Nero, invece, si trova su un livello superiore. Al di sopra della sintesi CMY, il colore mancante. Questo colore è non segue alcuna regola di bilanciamento: è indistintamente il più potente, ma non rappresenta ancora minimamente il massimo dei poteri.
+## CMY
+![cmy](eg/OP/cmy.jpg)
+Sul gradino più basso troviamo la sintesi sottrattiva dei colori. Ogni Agent o Manager ha un proprio colore, che rappresenta la sua linfa vitale. Tuttavia, i colori interagiscono fra loro con bonus e malus, in modo simile al gioco "Sasso, Carta, Forbici": il Ciano contrasta il Magenta, ma subisce il Giallo; il Magenta vince sul Giallo, ma perde con il Ciano; e infine, il Giallo prevale sul Ciano, ma è battuto dal Magenta. 
