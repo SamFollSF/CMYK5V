@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-Lavora in un'isola ecologica nel Network 64 volta a gestire i file spazzatura dei cestini degli utenti. Miracolosamente sopravvissuto a un tragico incidente, Arion ha vissuto un'esperienza unica legata a quest'ultimi. I cestini funzionano un po' come buchi neri: comprimono i file per spedirli in una dimensione distorta parallela, ma solo quando vengono svuotati. Un giorno, Arion si trovò troppo vicino a uno di questi cestini durante lo svuotamento. Riuscì a salvarsi, ma perse un braccio e parte del cranio, sfuggendo per un soffio alla sua forza gravitazionale.
+Lavora in un'isola ecologica nel Network 114 volta a gestire i file spazzatura dei cestini degli utenti. Miracolosamente sopravvissuto a un tragico incidente, Arion ha vissuto un'esperienza unica legata a quest'ultimi. I cestini funzionano un po' come buchi neri: comprimono i file per spedirli in una dimensione distorta parallela, ma solo quando vengono svuotati. Un giorno, Arion si trovò troppo vicino a uno di questi cestini durante lo svuotamento. Riuscì a salvarsi, ma perse un braccio e parte del cranio, sfuggendo per un soffio alla sua forza gravitazionale.
 
 Nulla si crea e nulla si distrugge ma tutto si trasforma, quindi da qualche parte le cose che vengono eliminate "definitivamente" stanno solo aspettando di essere ritrovate.
 

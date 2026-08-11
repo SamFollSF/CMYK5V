@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-Arriviamo al mio Agent, SamFollSF. Si tratta di un personaggio cruciale nella trama del Fumetto e Mazzo, come avrete notato leggendo le descrizioni delle altre carte. Ribadisco che Agent e Persona reale sono due entità completamente diverse, e dal punto di vista caratteriale non hanno nulla in comune. Sam non fa eccezione.
+Arriviamo al mio Agent, SamFollSF, originario del Network 87 a Saint Armand. Si tratta di un personaggio cruciale nella trama del Fumetto e Mazzo, come avrete notato leggendo le descrizioni delle altre carte. Ribadisco che Agent e Persona reale sono due entità completamente diverse, e dal punto di vista caratteriale non hanno nulla in comune. Sam non fa eccezione.
 
 In poche parole, SamFollSF è uno psicopatico criminale, un assassino spietato ricercato vivo o morto dal Governo. La sua infanzia è stata tutt’altro che felice, senza una famiglia che gli volesse bene, fatta eccezione per suo fratello [BlaseJewel51](../Remix/over.md). Entrambi hanno passato i primi anni di vita nel Network 742.
 

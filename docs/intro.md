@@ -34,26 +34,48 @@ Bene, ora non ti resta che scoprire tutte e 100 le carte! Usa il navigatore qui 
 
 # Ordine del Potere
 
-## Supreme
-![divinità](eg/OP/divinità.jpg)
-La sublimazione della differente natura strategica fra [Metalli Nobili](Magenta/shadowelite.md) e [Web Crystal](Remix/crystal.md). Nessuno sa cosa questi minerali siano capaci di fare, ma queste due sono le ipotesi più accreditate.
+## Supremo
 
-- [Platino](Remix/metal.md) con purezza al 100%: Tutti i metalli seguono la logica della creazione, della robustezza e dell'approccio brutale. La purezza al 100% garantisce il pieno potere a creare ogni oggetto che sia mai esistito nel WebVerse, anche il [Platino](Remix/metal.md) stesso, generando una perpetua crescita di potenza di calcolo, una mole di dati sempre più insostenibile che lascia spazio ad un solo avversario.
+![divinità](eg/OP/supply4.jpg)
+La sublimazione delle differenti nature strategicche fra [Metalli Nobili](Magenta/shadowelite.md) e [Web Crystal](Remix/crystal.md), 100 Cara-byte. Nessuno sa cosa questi minerali siano capaci di fare, ma queste due sono le ipotesi più accreditate.
 
-- [Diamante Oscuro](Remix/crystal.md): Se la logica dei [Metalli Nobili](Magenta/shadowelite.md) si basa sulla forza, i [Web Crystal](Remix/crystal.md) seguono una strategia più elegante, ottimizzata e astuta. Non cercano di vincere sulla mera forza, ma di trovare delle falle che permettano loro di essere ugualemente efficaci. Il [Diamante Oscuro](Remix/crystal.md) in risposta all'immensa capacità di creazione della controparte metallica, esso sceglie di non creare qualsiasi cosa, ma di modificare qualsiasi cosa, ogni legge della fisica, ogni funzionamento dell'ordine del potere magari rendendo il Key Colour forte quanto se stesso, oppure disattivare i collegamenti elettrici di tutto l'Iceberg del Web.
+- [Platino](Remix/metal.md): Tutti i metalli seguono la logica della creazione, della robustezza e dell'approccio brutale. La caratura massima garantisce il pieno potere a creare ogni oggetto che sia mai esistito nel WebVerse, anche il [Platino](Remix/metal.md) stesso, generando una perpetua crescita di potenza di calcolo, una mole di dati sempre più insostenibile che lascia spazio ad un solo avversario.
 
-Il quadro è chiaro: L'[Ordine Metallico](Remix/metal.md) rappresenta la capacità del computer di creare (NEW), L'[Ordine Cristallino](Remix/crystal.md) incarna invece la possibilità di modificare (EDIT). Uno scontro a questi livelli lo vince non chi è più forte, ma chi è più creativo, chi ha più fantasia.
-## Élite
-![élite](eg/OP/élite.jpg)
-La massiccia densità di elaborazione e calcolo dei dati rende questi minerali biomeccanicamente insostenibili per gli Agent e Manager, anche se esperimenti che sono costati la vita a cavie da laboratorio hanno permesso di scoprire cosa si celasse dietro il loro potere.
+- [Diamante Oscuro](Remix/crystal.md): Se la logica dei [Metalli Nobili](Magenta/shadowelite.md) si basa sulla forza, i [Web Crystal](Remix/crystal.md) seguono una strategia più elegante, ottimizzata e astuta. Non cercano di vincere sulla mera forza, ma di trovare delle falle che permettano loro di essere ugualemente efficaci. Il [Diamante Oscuro](Remix/crystal.md) (100 Cara-byte) in risposta all'immensa capacità di creazione della controparte metallica, sceglie di non creare qualsiasi cosa, ma di modificare qualsiasi cosa, ogni legge della fisica, ogni funzionamento dell'ordine del potere magari rendendo il Key Colour forte quanto se stesso, oppure disattivare i collegamenti elettrici di tutto l'Iceberg del Web.
 
-- [Platino](Remix/metal.md) con purezza all'80%: Oltre a creare oggetti che sfruttano i materiali già esistenti, il [Platino](Remix/metal.md) a questa purezza permette anche la trasformazione degli elementi che compongono la scena, riuscendo non solo a ricreare tutti i [Metalli Comuni](Magenta/shadowelite.md), ma anche quelli [Nobili](Remix/metal.md) fino all'[Oro](Remix/metal.md).
-
-- [Diamante Rosa](Remix/crystal.md): Non si interviene più sulla modellazione del mondo, ma sulla modellazione del proprio codice sorgente con una conoscenza totale della propria natura informatica. Un [Bruto Dorato](Remix/metal.md) ti attacca? Frysco>Gold_Damage:Off. Stai affogando sott'acqua? GreenRoby05>Underwater_Respiration:On.
+Il quadro è chiaro: L'[Ordine Metallico](Remix/metal.md) rappresenta la capacità del computer di creare (NEW), l'[Ordine Cristallino](Remix/crystal.md) incarna invece la possibilità di modificare (EDIT). Uno scontro a questi livelli lo vince non chi è più forte, ma chi è più creativo, chi ha più fantasia. 
 
 ## Overlords
-![overlords](eg/OP/overlords.jpg)
-Il terzo gradino del podio è popolato dagli Overlord, Manager potentissimi che corrispondo una seria minaccia contro qualunque abitante del Web. Per l'ordine metallico troviamo il [Platino](Remix/metal.md) con il potere di creare oggetti istantaneamente e usarli come arma o assi nella manica sfruttando il materiale presente nell'ambiente circostante. Il [Diamante Azzurro](Remix/crystal.md) permette invece di modificare qualsiasi poligono nello spazio circostante, modellando e trasformando in cristallo l'ambiente con i relativi oggetti.
+![supply1](eg/OP/supply01.jpg)
+La casta più potente del Web formata dai famigerati Overlord, Manager potentissimi che corrispondo una seria minaccia contro qualunque abitante del Web. Per l'ordine metallico troviamo il [Platino](Remix/metal.md) con il potere di creare oggetti istantaneamente e usarli come arma o assi nella manica sfruttando il materiale presente nell'ambiente circostante. Il [Diamante](Remix/crystal.md) permette invece di modificare qualsiasi poligono nello spazio circostante, modellando e trasformando in cristallo l'ambiente con i relativi oggetti.
+
+Tuttavia ciò che contraddistingue questi minerali da quelli già citati è il dato di Cara-byte del singolo esemplare, capace di rendere questi potentissimi oggetti così distruttivi da rendersi insostenibili per il corpo biomeccanico degli Agent e Manager che li posseggono. Esso calcola la purezza del minerale da impurità varie che possono abbassare di molto le capacità sia in combattimento che durante le operazioni di calcolo.
+
+### Platino
+
+![supply3](eg/OP/supply03.jpg)
+
+Per l'ordine metallico il [Platino](Remix/crystal.md) fa da progatonista. La scala del potere espressa in Cara-byte è logaritmica, questo vuol dire che più si sale, e più le possibilità salgono vertiginosamente, arrivando al 100 che nell'immagine è espresso con il simbolo dell'infinito proprio perché, come vedremo più in alto, gli utilizzi di questi minerali alla loro massima purezza rompe qualsiasi schema del WebVerse.
+
+Con pochi Cara-byte il [Platino](Remix/crystal.md) si limita ad unire il potere dei tre [Metalli Nobili](Magenta/shadowelite.md) con una forza maggiore dato il metallo di livello superiore.
+
+Dal valore di 60 Cara-byte le cose iniziano a cambiare, il metallo si mostra nel suo potere che lo rende unico, ovvero la creazione di oggetti (anche molto grandi) in pochissimo tempo. (+ Cara-byte = + Efficienza nel creare). Questa è la soglia massima che un corpo di un Agent può sostenere senza effetti collaterali fatali.
+
+Arrivati a 80 Cara-byte le cose si fanno davvero interessanti: Oltre a creare oggetti che sfruttano i materiali già esistenti, il [Platino](Remix/metal.md) a questa purezza permette anche la trasformazione degli elementi che compongono la scena, riuscendo non solo a ricreare tutti i [Metalli Comuni](Magenta/shadowelite.md), ma anche quelli [Nobili](Remix/metal.md) fino all'[Oro](Remix/metal.md).
+
+### Diamanti
+
+![diamantiok](eg/OP/supply02.jpg)
+Le pietre preziose più ricercate del Web. I [Diamanti](Remix/crystal.md) come la controparte metallica ha diverse caratteristiche che variano a seconda dei Cara-byte.
+
+Con pochi Cara-byte questo cristallo sà essere comunque una seria minaccia. A questo livello permette di poter deformare lo spazio attorno, potendosi sia difendere che attaccare con molta agilità. (+ Cara-byte = + Efficienza nel deformare).
+
+Dai 60 Cara-bye come per il [Platino](Remix/crystal.md) si inzia a fare sul serio: Oltre a deformare con più precisione e forza, questi livelli di caratura permettono al [Diamante](Remix/crystal.md) di farlo con una logica ben precisa. Chi lo possiede può fare una scansione dell'intera area d'azione, riuscendo ad analizzare in pochissimi istanti moltissime informazioni, che vanno dallo scoprire l'intero arsenale e assi nella manica dei nemici, fino a percepire lo spazio in maniera simile alla quarta dimensione, potendo intervenire e tenere sotto controllo praticamente tutto il mondo nella zona prossima. Quando si è in fase di analisi, la quale può comunque essere combinata con la fase di deformazione, le texture dei materiali spariscono per mostrare solo un reticolo che rende più visibile i poligoni degli oggetti, dal momento che qualsiasi deformazione rende quel materiale del [Diamante](Remix/crystal.md) extra, sapere di cosa è composta un'auto lì vicino diventa irrilevante. Questa è la soglia massima che un corpo di un Agent può sostenere senza effetti collaterali fatali. (+ Cara-byte = + Dati da analizzare).
+
+Arrivando a 80 Cara-byte le possibilità sono infinite: Non si interviene più sulla modellazione del mondo, ma sulla modellazione del proprio codice sorgente con una conoscenza totale della propria natura informatica. Un [Bruto Dorato](Remix/metal.md) ti attacca? Frysco>Gold_Damage:Off. Stai affogando sott'acqua? GreenRoby05>Underwater_Respiration:On. (+ Cara-byte = + Possibilità di intervenire sul proprio codice sorgente).
+
+Un fattore importante è che i Cara-byte non possono essere aggiunti ad un [Diamante](Remix/crystal.md) in un secondo momento, mentre un lingotto di [Platino](Remix/crystal.md) può esserre purificato in un secondo momento, ma le conoscenze attuali del Web permettono di far arrivare questo metallo ad un massimo di 80 Cara-byte.
+
 ## Brute Bandwidth Force
 ![tf](eg/OP/tf.jpg)
 La Bandwidth Force è la classe più prossima ai livelli più alti possibili, e il loro potenziale non è da meno. L'[Oro](Remix/metal.md) dalla sponda metallica offre una forza bruta in grado di disintegrare qualsiasi Agent in uno scontro corpo a corpo. Il [Rubino](Remix/crystal.md) invece offre una velocità di trasferimento dati così veloce da poter controllare i corpi dei propri nemici grazie al download istantaneo di un malware se trafitti.

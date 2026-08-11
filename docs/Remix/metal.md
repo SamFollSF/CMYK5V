@@ -60,19 +60,19 @@ Il Platino è il metallo più potente di tutto il Web, una risorsa dall'inestima
 
 Ad oggi, nessuno nel Web ha mai avuto accesso a una quantità e purezza di Platino sufficiente per creare armature forgiati in questo metallo al 100%, ma chiunque ci riuscisse diventerebbe senza dubbio uno degli esseri più potenti mai esistiti.
 
-#### Purezza al 60%
+#### 60 Carabyte
 
-Il Platino a questo livello di purezza è la naturale controparte del [Diamante Azzurro](../Remix/crystal.md). Oltre alla sua peculiarità unica, questo metallo comprende il potere di tutti gli altri tre metalli precedenti (conduzione elettrica, volo e forza bruta) ma portati ad livello ancora superiore. Il quarto potere unico del Platino (che parte da questa purezza e man mano che si aumenta diventa più raffinato) è quello di creare ogni oggetto presente nel Web. Per ogni oggetto intendo tutti, può creare un intero palazzo e scaraventarlo contro un obiettivo, può costruire un veicolo inedito per un combattimento specifico, un campo di tesle con cui sprigionare fulmini e così via.
+Il Platino  è la naturale controparte del [Diamante](../Remix/crystal.md). A queste carature, oltre alla sua peculiarità unica, questo metallo comprende il potere di tutti gli altri tre metalli precedenti (conduzione elettrica, volo e forza bruta) ma portati ad livello ancora superiore. Il quarto potere unico del Platino (che parte da questa purezza e man mano che si aumenta diventa più raffinato) è quello di creare ogni oggetto presente nel Web. Per ogni oggetto intendo tutti, può creare un intero palazzo e scaraventarlo contro un obiettivo, può costruire un veicolo inedito per un combattimento specifico, un campo di tesle con cui sprigionare fulmini e così via.
 
 C'è però un limite importante: non può creare Metalli Nobili o [Web Crystal](../Remix/crystal.md). Tutto il resto sì, di qualsiasi forma e dimensione. Oviiamente più la creazione è densa di informazioni e più tempo ci vorrà per completare il compito.
 
 (Controparte difensiva: [Titanio](../Magenta/shadowelite.md))
 
-#### Purezza al 80%
+#### 80 Cara-byte
 
 Da questa purezza, che ricordo essere biomeccanicamente insostenibile per gli abitanti del Web, è possibile creare anche i Metalli Nobili, dal Rame all'Oro. Qui la storia cambia radicalmente. L'efficienza è portata a livelli clamorosi, creare grattacieli fatti d'oro e annientare interi network diventa un gioco da ragazzi.
 
-#### Purezza al 100%
+#### 100 Cara-byte
 
 Non si hanno informazioni ufficiali su cosa sia capace di fare il Platino puro al 100%, abbandonando quindi il concetto di lega e sfruttando tutta l'essenza del suo potere. La teoria più accreditata tra gli Agent è quello di un metallo in grado di sovvergere la legge della conservazione della materia. Le leghe precedenti utilizzavano i materiali che avevano vicino per le creazioni, la purezza all'80% era capace di trasformare anche il terreno ghiacciato in Oro, cosa che la purezza al 60% non consente. Vincere sulla legge del chimico Antonie Lavoisier porta la sfida bilanciata con il [Diamante Oscuro](../Remix/crystal.md): ora non si risponde alle regole dell'universo, ma l'unico limite diventa la propria immaginazione nel creare sempre più Platino, sempre più potenza di calcolo, sempre più dati, arrivando a sfondare i limiti dello spazio del WebVerse.
 

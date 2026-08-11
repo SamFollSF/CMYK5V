@@ -62,29 +62,29 @@ Il cavo può estendrsi per la sorprendente distanza di massimo un milione di pix
 
 Entriamo nel vivo dei Web Crystals introducendo i Diamanti. Queste gemme si formano come le controparti più comuni: non sono altro che dei bug di sistema. Tuttavia qui parliamo di falle nella scrittura del web molto grandi, per questo sono sia molto rari ma anche estremamente potenti. Possiamo classificarli in ordine crescente di prestigio: Azzurro, Rosa e Oscuro, con dei poteri unici per ogni colorazione.
 
-### Diamante Azzurro
+### 60 Cara-byte
 
 ![Diamante Azzurro](../eg/5/Light%20Blue%20Diamond.jpg)
 
-Quello più comune, anche se comune si fa per dire. Il suo potere speciale è quello di entrare in simbiosi con l'ambiente circostante, modificandolo e cristallizzandolo a proprio piacimento. Ciò avviene in una prima fase di analisi dell'ambiente, che rende tutto agli occhi del possessore coperto di un reticolo azzurro acceso, disattivando le texture originali e permettendo di ottenere l'unica informazione utile: i poligoni della zona, dal momento che qualunque intervento di modifica del mondo farebbe diventare quella porzione composta di un cristallo indistruttibile.
+Il suo potere speciale è quello di entrare in simbiosi con l'ambiente circostante, modificandolo e cristallizzandolo a proprio piacimento. Ciò avviene in una prima fase di analisi dell'ambiente, che rende tutto agli occhi del possessore coperto di un reticolo azzurro acceso, disattivando le texture originali e permettendo di ottenere l'unica informazione utile: i poligoni della zona, dal momento che qualunque intervento di modifica del mondo farebbe diventare quella porzione composta di un cristallo indistruttibile.
 
-[Solisnoctix](../Magenta/solisnoctix.md) è in possesso di un Diamante Azzurro, quello che può fare è ad esempio selezionare un'auto, rendendola al 100% di cristallo e scaraventarla contro un bersaglio, tutto in meno di 5 secondi. Per certi versi può ricordare il tocco di Mida, solo che qui si rendono gli oggetti cristalli durissimi,i mpossibili da scalfire per qualsiasi cristallo o [Metallo Nobile](../Remix/metal.md) che non sia [Platino](../Remix/metal.md).
+[Solisnoctix](../Magenta/solisnoctix.md) è in possesso di un Diamante con questi carati, quello che può fare è ad esempio selezionare un'auto, rendendola al 100% di cristallo e scaraventarla contro un bersaglio, tutto in meno di 5 secondi. Per certi versi può ricordare il tocco di Mida, solo che qui si rendono gli oggetti cristalli durissimi,i mpossibili da scalfire per qualsiasi cristallo o [Metallo Nobile](../Remix/metal.md) che non sia [Platino](../Remix/metal.md).
 
 Il limite di questo Diamante è nel raggio d'azione. Più ci si allontana e meno l'effetto sarà eseguito in maniera corretta, e il cristallo prodotto sarà man mano più facile da rompere, anche per un [Cavalieri di Rame](../Remix/metal.md).
 
-### Diamante Rosa
+### 80 Cara-byte
 
 ![Diamante Rosa](../eg/5/Pink%20Diamond.jpg)
 
-Il gradino intermedio. Entriamo nella zona dove il potere diventa biomeccanicamente impossibile da sostenere per un Agent, al pari di quello che accade possedendo [Platino](../Remix/metal.md) più puro dell'80%, con stime che suggeriscono paragonabili livelli di potenza.
+Il gradino intermedio. Entriamo nella zona dove il potere diventa biomeccanicamente impossibile da sostenere per un Agent.
 
 Il Diamante Rosa ha come potere peculiare quello di poter modificare a piacimento e con conoscenza completa il proprio codice sorgente. Per intenderci, è lo stesso che viene studiato nelle [Palestre di ricerca](../Giallo/mc6.md), solo che con una consapevolezza al 100% della propria natura e la possibilità di modificarla a piacimento, ci si può rendere quasi invincibili, con valori e quantità di danni inflitti spropositati. Si diventa immuni alle leggi comuni della fisica del WebVerse.
 
-### Diamante Oscuro
+### Diamante Oscuro (100 Cara-byte)
 
 ![Diamante Oscuro](../eg/5/dark%20diamond.jpg)
 
-Con il Diamante Oscuro si entra nella sfera speculativa, dal momento che non è certa nemmeno la sua stessa esistenza. Ciò che è attualmente conosciuto è che il potere dei Diamanti e [Metalli Nobili](../Remix/metal.md) cresce in modo esponenziale, e quindi se per il [Platino](../Remix/metal.md) con il 60% di purezza esiste una controparte cristallina, ovvero il Diamante Azzurro, e così via per il [Platino](../Remix/metal.md) puro all'80% con il Diamante Rosa, deve esserci qualcosa che possa controbilanciare il [Platino](../Remix/metal.md) dal 90% al 100% di purezza.
+Con il Diamante Oscuro si entra nella sfera speculativa, dal momento che non è certa nemmeno la sua stessa esistenza. Ciò che è attualmente conosciuto è che il potere dei Diamanti e [Metalli Nobili](../Remix/metal.md) cresce in modo esponenziale, e quindi se per il [Platino](../Remix/metal.md) con 60 Cara-byte esiste una controparte cristallina, deve esserci qualcosa che possa controbilanciare il [Platino](../Remix/metal.md) dai 90 ai 100 Cara-byte.
 
 Leggende narrano di questo Diamante Oscuro in grado di rendere chi ne fosse in possesso una vera e propria divinità, capace di sovvertire tutte le regole e il destino del WebVerse, potendo letteralmente riscrivere la storia dell'intero universo. Ad esclusione, l'unica zona del WebVerse dove potrebbe esserci questo minerale è il [Dark Web](../Remix/deep.md), dove giacciono grandi quantità di Web Crystals, ma nessuno ha mai potuto provare l'esistenza di un Diamante Oscuro.
 

@@ -12,7 +12,7 @@ tags:
 
 Nel 2018, in tutto il [Surface Web](../Remix/deep.md), venne indetto un concorso da parte della società Global E-Gateway per un lavoro da dirigente degli scambi commerciali tra Cina e Italia, un ruolo molto ambito in rete. L'evento attirò così tante persone che si verificarono numerose risse, costringendo molti partecipanti a ricorrere a cure mediche. Il concorso non era altro che un semplicissimo esame teorico, che però è sfociato nel caos più assoluto.
 
-Lo stesso giorno in cui venne annunciato il vincitore, Post-Fry, un'altra notizia sconvolse il Web: "A quanto pare, la Global E-Gateway è stata accusata di aver fatto sparire un candidato. Si tratta di Great Zodiak, un Agent residente nel Network 481, scomparso in circostanze misteriose all'interno del palazzo principale dove sarebbe dovuta avvenire la premiazione, ultima posizione nota."
+Lo stesso giorno in cui venne annunciato il vincitore, Post-Fry, un'altra notizia sconvolse il Web: "A quanto pare, la Global E-Gateway è stata accusata di aver fatto sparire un candidato. Si tratta di Great Zodiak, un Agent residente nel Network 74, scomparso in circostanze misteriose all'interno del palazzo principale dove sarebbe dovuta avvenire la premiazione, ultima posizione nota."
 
 [The Deather](../Ciano/thedea.md) è sulle tracce di suo cugino da tantissimi anni, e non ha mai perso le speranze. A logorarlo è soprattutto l'assoluto muro di
 gomma eretto da Post-Fry il quale, negando ostinatamente ogni coinvolgimento, esaspera una tensione ormai insanabile.

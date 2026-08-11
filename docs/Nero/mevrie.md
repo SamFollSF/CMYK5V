@@ -10,7 +10,7 @@ tags:
 
 ## Descrizione
 
-Ella è la principessa del Network 136, proprio come [Golden](../Ciano/golden.md) regna nel network adiacente (il 136 invece del 137). I due sono in ottimi rapporti e, nella carta di [Golden](../Ciano/golden.md), il ruolo dei principi nel Web viene ampiamente discusso. Potreste pensare che queste figure regali e potenti siano naturalmente in contrasto con [SamFollSF](../Remix/samfollsf.md), ma il discorso è più complesso.
+Ella è la principessa del Network 56, proprio come [Golden](../Ciano/golden.md) regna nel network adiacente (il 57 invece del 57). I due sono in ottimi rapporti e, nella carta di [Golden](../Ciano/golden.md), il ruolo dei principi nel Web viene ampiamente discusso. Potreste pensare che queste figure regali e potenti siano naturalmente in contrasto con [SamFollSF](../Remix/samfollsf.md), ma il discorso è più complesso.
 
 Infatti, nonostante il loro status di principi, che dovrebbe comportare il rispetto della legge, Mevrie e [Golden](../Ciano/golden.md) non devono per forza mettersi contro i criminali come [SamFollSF](../Remix/samfollsf.md), perché anche loro ignorano le regole e le leggi restrittive del [Surface Web](../Remix/deep.md). Durante il giorno si comportano come normali principi, impegnati in pratiche noiose, mentre di notte si concedono un lusso sfrenato nei club più prestigiosi dei Network vicini ai grandi [Ristagni d'acqua](../Remix/frutiger.md).
 
